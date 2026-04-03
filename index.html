@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>StrokeFlow</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>StrokeFlow</h1>
+    <p>Select HSK Level</p>
+
+    <div class="level-buttons">
+      <button onclick="selectLevel('hsk1')">HSK 1</button>
+      <button onclick="selectLevel('hsk2')">HSK 2</button>
+      <button onclick="selectLevel('hsk3')">HSK 3</button>
+      <button onclick="location.href='quiz.html'">Quiz Mode</button>
+      <button onclick="location.href='search.html'">Search by Meaning</button>
+      <button onclick="location.href='contact.html'">Contact Us</button>
+    </div>
+  </div>
+
+  <script>
+    function selectLevel(level) {
+      localStorage.setItem("level", level);
+      window.location.href = "characters.html";
+    }
+  </script>
+
+</body>
+</html>

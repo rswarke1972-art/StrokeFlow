@@ -1,0 +1,4784 @@
+{
+  "hsk1": [
+    {
+      "char": "我",
+      "pinyin": "wǒ",
+      "meaning": "I, me",
+      "example": "我是学生。",
+      "example_pinyin": "wǒ shì xué shēng.",
+      "explanation": "Means 'I am a student.' 我 means 'I' or 'me'."
+    },
+    {
+      "char": "是",
+      "pinyin": "shì",
+      "meaning": "to be, is, am, are",
+      "example": "她是老师。",
+      "example_pinyin": "tā shì lǎo shī.",
+      "explanation": "Means 'She is a teacher.' 是 is used like 'is/am/are'."
+    },
+    {
+      "char": "你",
+      "pinyin": "nǐ",
+      "meaning": "you",
+      "example": "你好吗？",
+      "example_pinyin": "nǐ hǎo ma?",
+      "explanation": "A common greeting meaning 'How are you?' 你 means 'you'."
+    },
+    {
+      "char": "国",
+      "pinyin": "guó",
+      "meaning": "country, nation",
+      "example": "中国很大。",
+      "example_pinyin": "zhōng guó hěn dà.",
+      "explanation": "Means 'China is big.' 国 means 'country'."
+    },
+    {
+      "char": "上",
+      "pinyin": "shàng",
+      "meaning": "above, on, up",
+      "example": "书在桌子上。",
+      "example_pinyin": "shū zài zhuō zi shàng.",
+      "explanation": "Means 'The book is on the table.' 上 indicates position 'on/above'."
+    },
+    {
+  "char": "这",
+  "pinyin": "zhè",
+  "meaning": "this",
+  "example": "这是我的书。",
+  "example_pinyin": "zhè shì wǒ de shū.",
+  "explanation": "Means 'This is my book.' 这 means 'this'."
+},
+{
+  "char": "来",
+  "pinyin": "lái",
+  "meaning": "to come",
+  "example": "他来了。",
+  "example_pinyin": "tā lái le.",
+  "explanation": "Means 'He came.' 来 means 'to come'."
+},
+{
+  "char": "人",
+  "pinyin": "rén",
+  "meaning": "person, people",
+  "example": "这个人很好。",
+  "example_pinyin": "zhè ge rén hěn hǎo.",
+  "explanation": "Means 'This person is very good.' 人 means 'person'."
+},
+{
+  "char": "年",
+  "pinyin": "nián",
+  "meaning": "year",
+  "example": "我二十岁了，今年二十年。",
+  "example_pinyin": "wǒ èr shí suì le, jīn nián èr shí nián.",
+  "explanation": "Means 'I am 20 years old this year.' 年 means 'year'."
+},
+{
+  "char": "大",
+  "pinyin": "dà",
+  "meaning": "big, large, old",
+  "example": "这是一只大狗。",
+  "example_pinyin": "zhè shì yì zhī dà gǒu.",
+  "explanation": "Means 'This is a big dog.' 大 means 'big'."
+},
+{
+  "char": "爱",
+  "pinyin": "ài",
+  "meaning": "to love, to like",
+  "example": "我爱你。",
+  "example_pinyin": "wǒ ài nǐ.",
+  "explanation": "Means 'I love you.' 爱 means 'to love'."
+},
+{
+  "char": "说",
+  "pinyin": "shuō",
+  "meaning": "to speak, to say",
+  "example": "他说中文。",
+  "example_pinyin": "tā shuō zhōng wén.",
+  "explanation": "Means 'He speaks Chinese.' 说 means 'to speak'."
+},
+{
+  "char": "女",
+  "pinyin": "nǚ",
+  "meaning": "woman, female",
+  "example": "她是一个女人。",
+  "example_pinyin": "tā shì yí ge nǚ rén.",
+  "explanation": "Means 'She is a woman.' 女 means 'female' or 'woman'."
+},
+{
+  "char": "钱",
+  "pinyin": "qián",
+  "meaning": "money",
+  "example": "我没有钱。",
+  "example_pinyin": "wǒ méi yǒu qián.",
+  "explanation": "Means 'I don't have money.' 钱 means 'money'."
+},
+{
+  "char": "不",
+  "pinyin": "bù",
+  "meaning": "no, not",
+  "example": "我不去。",
+  "example_pinyin": "wǒ bù qù.",
+  "explanation": "Means 'I am not going.' 不 is used for negation."
+},
+{
+  "char": "家",
+  "pinyin": "jiā",
+  "meaning": "family, home",
+  "example": "我回家。",
+  "example_pinyin": "wǒ huí jiā.",
+  "explanation": "Means 'I go home.' 家 means 'home' or 'family'."
+},
+{
+  "char": "语",
+  "pinyin": "yǔ",
+  "meaning": "language",
+  "example": "汉语很有趣。",
+  "example_pinyin": "hàn yǔ hěn yǒu qù.",
+  "explanation": "Means 'Chinese language is interesting.' 语 means 'language'."
+},
+{
+  "char": "汉",
+  "pinyin": "hàn",
+  "meaning": "Han (ethnicity)",
+  "example": "他是汉人。",
+  "example_pinyin": "tā shì hàn rén.",
+  "explanation": "Means 'He is Han Chinese.' 汉 refers to the Han ethnicity."
+},
+{
+  "char": "月",
+  "pinyin": "yuè",
+  "meaning": "moon, month",
+  "example": "今天是五月。",
+  "example_pinyin": "jīn tiān shì wǔ yuè.",
+  "explanation": "Means 'Today is May.' 月 means 'month' or 'moon'."
+},
+{
+  "char": "星",
+  "pinyin": "xīng",
+  "meaning": "star",
+  "example": "天上有很多星。",
+  "example_pinyin": "tiān shàng yǒu hěn duō xīng.",
+  "explanation": "Means 'There are many stars in the sky.' 星 means 'star'."
+},
+{
+  "char": "前",
+  "pinyin": "qián",
+  "meaning": "front, before",
+  "example": "他在我前面。",
+  "example_pinyin": "tā zài wǒ qián miàn.",
+  "explanation": "Means 'He is in front of me.' 前 means 'front'."
+},
+{
+  "char": "后",
+  "pinyin": "hòu",
+  "meaning": "after, back, behind",
+  "example": "我在他后面。",
+  "example_pinyin": "wǒ zài tā hòu miàn.",
+  "explanation": "Means 'I am behind him.' 后 means 'behind' or 'after'."
+},
+{
+  "char": "他",
+  "pinyin": "tā",
+  "meaning": "he, him",
+  "example": "他是我的朋友。",
+  "example_pinyin": "tā shì wǒ de péng yǒu.",
+  "explanation": "Means 'He is my friend.' 他 refers to a male person."
+},
+{
+  "char": "她",
+  "pinyin": "tā",
+  "meaning": "she, her",
+  "example": "她很高兴。",
+  "example_pinyin": "tā hěn gāo xìng.",
+  "explanation": "Means 'She is very happy.' 她 refers to a female person."
+},
+{
+  "char": "猫",
+  "pinyin": "māo",
+  "meaning": "cat",
+  "example": "这只猫很可爱。",
+  "example_pinyin": "zhè zhī māo hěn kě ài.",
+  "explanation": "Means 'This cat is very cute.' 猫 means 'cat'."
+},
+{
+  "char": "狗",
+  "pinyin": "gǒu",
+  "meaning": "dog",
+  "example": "那只狗很大。",
+  "example_pinyin": "nà zhī gǒu hěn dà.",
+  "explanation": "Means 'That dog is big.' 狗 means 'dog'."
+},
+{
+  "char": "水",
+  "pinyin": "shuǐ",
+  "meaning": "water",
+  "example": "我喝水。",
+  "example_pinyin": "wǒ hē shuǐ.",
+  "explanation": "Means 'I drink water.' 水 means 'water'."
+},
+{
+  "char": "火",
+  "pinyin": "huǒ",
+  "meaning": "fire",
+  "example": "火很热。",
+  "example_pinyin": "huǒ hěn rè.",
+  "explanation": "Means 'Fire is hot.' 火 means 'fire'."
+},
+{
+  "char": "热",
+  "pinyin": "rè",
+  "meaning": "hot",
+  "example": "今天很热。",
+  "example_pinyin": "jīn tiān hěn rè.",
+  "explanation": "Means 'Today is very hot.' 热 means 'hot'."
+},
+{
+  "char": "冷",
+  "pinyin": "lěng",
+  "meaning": "cold",
+  "example": "今天很冷。",
+  "example_pinyin": "jīn tiān hěn lěng.",
+  "explanation": "Means 'Today is very cold.' 冷 means 'cold'."
+},
+{
+  "char": "天",
+  "pinyin": "tiān",
+  "meaning": "sky, day",
+  "example": "今天天气很好。",
+  "example_pinyin": "jīn tiān tiān qì hěn hǎo.",
+  "explanation": "Means 'The weather is very good today.' 天 can mean 'sky' or 'day'."
+},
+{
+  "char": "东",
+  "pinyin": "dōng",
+  "meaning": "east",
+  "example": "太阳从东边出来。",
+  "example_pinyin": "tài yáng cóng dōng biān chū lái.",
+  "explanation": "Means 'The sun rises from the east.' 东 means 'east'."
+},
+{
+  "char": "西",
+  "pinyin": "xī",
+  "meaning": "west",
+  "example": "太阳在西边落下。",
+  "example_pinyin": "tài yáng zài xī biān luò xià.",
+  "explanation": "Means 'The sun sets in the west.' 西 means 'west'."
+},
+{
+  "char": "北",
+  "pinyin": "běi",
+  "meaning": "north",
+  "example": "北京在中国北方。",
+  "example_pinyin": "běi jīng zài zhōng guó běi fāng.",
+  "explanation": "Means 'Beijing is in the north of China.' 北 means 'north'."
+},
+{
+  "char": "南",
+  "pinyin": "nán",
+  "meaning": "south",
+  "example": "广州在中国南方。",
+  "example_pinyin": "guǎng zhōu zài zhōng guó nán fāng.",
+  "explanation": "Means 'Guangzhou is in the south of China.' 南 means 'south'."
+},
+{
+  "char": "桌",
+  "pinyin": "zhuō",
+  "meaning": "table",
+  "example": "书在桌子上。",
+  "example_pinyin": "shū zài zhuō zi shàng.",
+  "explanation": "Means 'The book is on the table.' 桌 means 'table'."
+},
+{
+  "char": "椅",
+  "pinyin": "yǐ",
+  "meaning": "chair",
+  "example": "椅子在桌子旁边。",
+  "example_pinyin": "yǐ zi zài zhuō zi páng biān.",
+  "explanation": "Means 'The chair is beside the table.' 椅 means 'chair'."
+},
+{
+  "char": "吃",
+  "pinyin": "chī",
+  "meaning": "to eat",
+  "example": "我吃饭。",
+  "example_pinyin": "wǒ chī fàn.",
+  "explanation": "Means 'I eat food.' 吃 means 'to eat'."
+},
+{
+  "char": "喝",
+  "pinyin": "hē",
+  "meaning": "to drink",
+  "example": "我喝水。",
+  "example_pinyin": "wǒ hē shuǐ.",
+  "explanation": "Means 'I drink water.' 喝 means 'to drink'."
+},
+{
+  "char": "喜",
+  "pinyin": "xǐ",
+  "meaning": "happy, joy",
+  "example": "我很喜欢你。",
+  "example_pinyin": "wǒ hěn xǐ huān nǐ.",
+  "explanation": "Means 'I like you very much.' 喜 relates to happiness or liking."
+},
+{
+  "char": "多",
+  "pinyin": "duō",
+  "meaning": "many, much",
+  "example": "这里有很多人。",
+  "example_pinyin": "zhè lǐ yǒu hěn duō rén.",
+  "explanation": "Means 'There are many people here.' 多 means 'many' or 'much'."
+},
+{
+  "char": "少",
+  "pinyin": "shǎo",
+  "meaning": "few, little",
+  "example": "这里人很少。",
+  "example_pinyin": "zhè lǐ rén hěn shǎo.",
+  "explanation": "Means 'There are few people here.' 少 means 'few' or 'little'."
+},
+{
+  "char": "高",
+  "pinyin": "gāo",
+  "meaning": "high, tall",
+  "example": "他很高。",
+  "example_pinyin": "tā hěn gāo.",
+  "explanation": "Means 'He is tall.' 高 means 'high' or 'tall'."
+},
+{
+  "char": "生",
+  "pinyin": "shēng",
+  "meaning": "to be born, to live",
+  "example": "他是学生。",
+  "example_pinyin": "tā shì xué shēng.",
+  "explanation": "Means 'He is a student.' 生 is often used in words like 学生 (student)."
+},
+{
+  "char": "里",
+  "pinyin": "lǐ",
+  "meaning": "inside, inner",
+  "example": "书在包里。",
+  "example_pinyin": "shū zài bāo lǐ.",
+  "explanation": "Means 'The book is inside the bag.' 里 means 'inside'."
+},
+{
+  "char": "朋",
+  "pinyin": "péng",
+  "meaning": "friend (part of 朋友)",
+  "example": "他是我的朋友。",
+  "example_pinyin": "tā shì wǒ de péng yǒu.",
+  "explanation": "朋 is usually used together with 友 to form 朋友 (friend)."
+},
+{
+  "char": "友",
+  "pinyin": "yǒu",
+  "meaning": "friend",
+  "example": "我有很多朋友。",
+  "example_pinyin": "wǒ yǒu hěn duō péng yǒu.",
+  "explanation": "Means 'I have many friends.' 友 means 'friend'."
+},
+{
+  "char": "读",
+  "pinyin": "dú",
+  "meaning": "to read",
+  "example": "我读书。",
+  "example_pinyin": "wǒ dú shū.",
+  "explanation": "Means 'I read books.' 读 means 'to read'."
+},
+{
+  "char": "写",
+  "pinyin": "xiě",
+  "meaning": "to write",
+  "example": "我写字。",
+  "example_pinyin": "wǒ xiě zì.",
+  "explanation": "Means 'I write characters.' 写 means 'to write'."
+},
+{
+  "char": "妈",
+  "pinyin": "mā",
+  "meaning": "mom, mother",
+  "example": "我妈妈很好。",
+  "example_pinyin": "wǒ mā mā hěn hǎo.",
+  "explanation": "妈 means 'mother'. 妈妈 is commonly used for 'mom'."
+},
+{
+  "char": "爸",
+  "pinyin": "bà",
+  "meaning": "father, dad",
+  "example": "我爸爸在家。",
+  "example_pinyin": "wǒ bà ba zài jiā.",
+  "explanation": "爸 means 'father'. 爸爸 is commonly used for 'dad'."
+},
+{
+  "char": "姐",
+  "pinyin": "jiě",
+  "meaning": "elder sister",
+  "example": "我有一个姐姐。",
+  "example_pinyin": "wǒ yǒu yí ge jiě jie.",
+  "explanation": "姐 means 'elder sister'. 姐姐 is commonly used."
+},
+{
+  "char": "子",
+  "pinyin": "zi",
+  "meaning": "child, son",
+  "example": "他有一个孩子。",
+  "example_pinyin": "tā yǒu yí ge hái zi.",
+  "explanation": "子 can mean 'child' and appears in many words."
+},
+{
+  "char": "电",
+  "pinyin": "diàn",
+  "meaning": "electricity",
+  "example": "没有电了。",
+  "example_pinyin": "méi yǒu diàn le.",
+  "explanation": "Means 'There is no electricity.' 电 means 'electricity'."
+},
+{
+  "char": "面",
+  "pinyin": "miàn",
+  "meaning": "noodles, surface",
+  "example": "我吃面。",
+  "example_pinyin": "wǒ chī miàn.",
+  "explanation": "Means 'I eat noodles.' 面 can mean 'noodles' or 'surface'."
+},
+{
+  "char": "米",
+  "pinyin": "mǐ",
+  "meaning": "rice",
+  "example": "我吃米饭。",
+  "example_pinyin": "wǒ chī mǐ fàn.",
+  "explanation": "Means 'I eat rice.' 米 means 'rice (uncooked)'."
+},
+{
+  "char": "请",
+  "pinyin": "qǐng",
+  "meaning": "please, to invite",
+  "example": "请进。",
+  "example_pinyin": "qǐng jìn.",
+  "explanation": "Means 'Please come in.' 请 is used for politeness."
+},
+{
+  "char": "会",
+  "pinyin": "huì",
+  "meaning": "meeting, can (ability)",
+  "example": "我会说中文。",
+  "example_pinyin": "wǒ huì shuō zhōng wén.",
+  "explanation": "Means 'I can speak Chinese.' 会 indicates ability."
+},
+{
+  "char": "茶",
+  "pinyin": "chá",
+  "meaning": "tea",
+  "example": "我喝茶。",
+  "example_pinyin": "wǒ hē chá.",
+  "explanation": "Means 'I drink tea.' 茶 means 'tea'."
+},
+{
+  "char": "谢",
+  "pinyin": "xiè",
+  "meaning": "to thank",
+  "example": "谢谢你。",
+  "example_pinyin": "xiè xiè nǐ.",
+  "explanation": "Means 'Thank you.' 谢 is used in 谢谢 (thanks)."
+},
+{
+  "char": "菜",
+  "pinyin": "cài",
+  "meaning": "dish, vegetable",
+  "example": "这个菜很好吃。",
+  "example_pinyin": "zhè ge cài hěn hǎo chī.",
+  "explanation": "Means 'This dish is delicious.' 菜 means 'dish' or 'vegetable'."
+},
+{
+  "char": "医",
+  "pinyin": "yī",
+  "meaning": "medical, doctor",
+  "example": "他是医生。",
+  "example_pinyin": "tā shì yī shēng.",
+  "explanation": "Means 'He is a doctor.' 医 relates to medicine."
+},
+{
+  "char": "零",
+  "pinyin": "líng",
+  "meaning": "zero",
+  "example": "一百零一。",
+  "example_pinyin": "yì bǎi líng yī.",
+  "explanation": "Means '101.' 零 is used for zero in numbers."
+},
+{
+  "char": "睡",
+  "pinyin": "shuì",
+  "meaning": "to sleep",
+  "example": "我睡觉。",
+  "example_pinyin": "wǒ shuì jiào.",
+  "explanation": "Means 'I sleep.' 睡 means 'to sleep'."
+},
+{
+  "char": "京",
+  "pinyin": "jīng",
+  "meaning": "capital (city)",
+  "example": "北京是中国的首都。",
+  "example_pinyin": "běi jīng shì zhōng guó de shǒu dū.",
+  "explanation": "Means 'Beijing is the capital of China.' 京 refers to capital city."
+},
+{
+  "char": "影",
+  "pinyin": "yǐng",
+  "meaning": "shadow, image",
+  "example": "我看电影。",
+  "example_pinyin": "wǒ kàn diàn yǐng.",
+  "explanation": "Means 'I watch a movie.' 影 appears in 电影 (movie)."
+},
+{
+  "char": "看",
+  "pinyin": "kàn",
+  "meaning": "to look, to see",
+  "example": "我看书。",
+  "example_pinyin": "wǒ kàn shū.",
+  "explanation": "Means 'I read/look at a book.' 看 means 'to look or see'."
+},
+{
+  "char": "名",
+  "pinyin": "míng",
+  "meaning": "name",
+  "example": "我的名字是李华。",
+  "example_pinyin": "wǒ de míng zi shì lǐ huá.",
+  "explanation": "Means 'My name is Li Hua.' 名 relates to name."
+},
+{
+  "char": "机",
+  "pinyin": "jī",
+  "meaning": "machine",
+  "example": "这是一个机器。",
+  "example_pinyin": "zhè shì yí ge jī qì.",
+  "explanation": "Means 'This is a machine.' 机 means 'machine'."
+},
+{
+  "char": "去",
+  "pinyin": "qù",
+  "meaning": "to go",
+  "example": "我去学校。",
+  "example_pinyin": "wǒ qù xué xiào.",
+  "explanation": "Means 'I go to school.' 去 means 'to go'."
+},
+{
+  "char": "漂",
+  "pinyin": "piào",
+  "meaning": "pretty (in 漂亮)",
+  "example": "她很漂亮。",
+  "example_pinyin": "tā hěn piào liang.",
+  "explanation": "漂 is part of 漂亮 (beautiful)."
+},
+{
+  "char": "亮",
+  "pinyin": "liàng",
+  "meaning": "bright",
+  "example": "灯很亮。",
+  "example_pinyin": "dēng hěn liàng.",
+  "explanation": "Means 'The light is bright.' 亮 means 'bright'."
+},
+{
+  "char": "打",
+  "pinyin": "dǎ",
+  "meaning": "to hit, to do",
+  "example": "我打电话。",
+  "example_pinyin": "wǒ dǎ diàn huà.",
+  "explanation": "Means 'I make a phone call.' 打 has many uses."
+},
+{
+  "char": "回",
+  "pinyin": "huí",
+  "meaning": "to return, go back",
+  "example": "我回家。",
+  "example_pinyin": "wǒ huí jiā.",
+  "explanation": "Means 'I go back home.' 回 means 'to return'."
+},
+{
+  "char": "再",
+  "pinyin": "zài",
+  "meaning": "again",
+  "example": "我们再见。",
+  "example_pinyin": "wǒ men zài jiàn.",
+  "explanation": "Means 'See you again.' 再 means 'again'."
+},
+{
+  "char": "点",
+  "pinyin": "diǎn",
+  "meaning": "point, to order",
+  "example": "我点菜。",
+  "example_pinyin": "wǒ diǎn cài.",
+  "explanation": "Means 'I order food.' 点 can mean 'point' or 'to order'."
+},
+{
+  "char": "学",
+  "pinyin": "xué",
+  "meaning": "to study",
+  "example": "我学习中文。",
+  "example_pinyin": "wǒ xué xí zhōng wén.",
+  "explanation": "Means 'I study Chinese.' 学 means 'to study'."
+},
+{
+  "char": "们",
+  "pinyin": "men",
+  "meaning": "plural marker",
+  "example": "我们是学生。",
+  "example_pinyin": "wǒ men shì xué shēng.",
+  "explanation": "们 is used to make plural for people (we, they)."
+},
+{
+  "char": "分",
+  "pinyin": "fēn",
+  "meaning": "minute, part",
+  "example": "现在是三点十分。",
+  "example_pinyin": "xiàn zài shì sān diǎn shí fēn.",
+  "explanation": "Means 'It is 3:10 now.' 分 is used for minutes."
+},
+{
+  "char": "能",
+  "pinyin": "néng",
+  "meaning": "can, be able to",
+  "example": "我能做这个。",
+  "example_pinyin": "wǒ néng zuò zhè ge.",
+  "explanation": "Means 'I can do this.' 能 expresses ability."
+},
+{
+  "char": "习",
+  "pinyin": "xí",
+  "meaning": "practice, to get used to",
+  "example": "我学习汉语。",
+  "example_pinyin": "wǒ xué xí hàn yǔ.",
+  "explanation": "Means 'I study Chinese.' 习 appears in 学习 (to study)."
+},
+{
+  "char": "字",
+  "pinyin": "zì",
+  "meaning": "character, word",
+  "example": "我写汉字。",
+  "example_pinyin": "wǒ xiě hàn zì.",
+  "explanation": "Means 'I write Chinese characters.' 字 means 'character'."
+},
+{
+  "char": "同",
+  "pinyin": "tóng",
+  "meaning": "same, together",
+  "example": "我们是同学。",
+  "example_pinyin": "wǒ men shì tóng xué.",
+  "explanation": "Means 'We are classmates.' 同 means 'same' or 'together'."
+},
+{
+  "char": "商",
+  "pinyin": "shāng",
+  "meaning": "business, commerce",
+  "example": "他是商人。",
+  "example_pinyin": "tā shì shāng rén.",
+  "explanation": "Means 'He is a businessman.' 商 relates to business."
+},
+{
+  "char": "客",
+  "pinyin": "kè",
+  "meaning": "guest, visitor",
+  "example": "欢迎客人。",
+  "example_pinyin": "huān yíng kè rén.",
+  "explanation": "Means 'Welcome guests.' 客 means 'guest'."
+},
+{
+  "char": "对",
+  "pinyin": "duì",
+  "meaning": "correct, right",
+  "example": "这是对的。",
+  "example_pinyin": "zhè shì duì de.",
+  "explanation": "Means 'This is correct.' 对 means 'right/correct'."
+},
+{
+  "char": "书",
+  "pinyin": "shū",
+  "meaning": "book",
+  "example": "我看书。",
+  "example_pinyin": "wǒ kàn shū.",
+  "explanation": "Means 'I read books.' 书 means 'book'."
+},
+{
+  "char": "本",
+  "pinyin": "běn",
+  "meaning": "notebook, measure word for books",
+  "example": "我有一本书。",
+  "example_pinyin": "wǒ yǒu yì běn shū.",
+  "explanation": "Means 'I have a book.' 本 is used as a measure word for books."
+},
+{
+  "char": "吗",
+  "pinyin": "ma",
+  "meaning": "question particle",
+  "example": "你好吗？",
+  "example_pinyin": "nǐ hǎo ma?",
+  "explanation": "吗 is used to turn a statement into a question."
+},
+{
+  "char": "都",
+  "pinyin": "dōu",
+  "meaning": "all, both",
+  "example": "他们都来了。",
+  "example_pinyin": "tā men dōu lái le.",
+  "explanation": "Means 'They all came.' 都 means 'all'."
+},
+{
+  "char": "和",
+  "pinyin": "hé",
+  "meaning": "and",
+  "example": "我和你去。",
+  "example_pinyin": "wǒ hé nǐ qù.",
+  "explanation": "Means 'You and I go.' 和 means 'and'."
+},
+{
+  "char": "现",
+  "pinyin": "xiàn",
+  "meaning": "present, current",
+  "example": "现在我在家。",
+  "example_pinyin": "xiàn zài wǒ zài jiā.",
+  "explanation": "Means 'I am at home now.' 现 appears in 现在 (now)."
+},
+{
+  "char": "车",
+  "pinyin": "chē",
+  "meaning": "vehicle, car",
+  "example": "我有一辆车。",
+  "example_pinyin": "wǒ yǒu yí liàng chē.",
+  "explanation": "Means 'I have a car.' 车 means 'vehicle'."
+},
+{
+  "char": "儿",
+  "pinyin": "ér",
+  "meaning": "son, child",
+  "example": "他有一个儿子。",
+  "example_pinyin": "tā yǒu yí ge ér zi.",
+  "explanation": "Means 'He has a son.' 儿 relates to 'child' or 'son'."
+},
+{
+  "char": "没",
+  "pinyin": "méi",
+  "meaning": "not have, there is not",
+  "example": "我没有钱。",
+  "example_pinyin": "wǒ méi yǒu qián.",
+  "explanation": "Means 'I don't have money.' 没 is used for negation of possession."
+},
+{
+  "char": "时",
+  "pinyin": "shí",
+  "meaning": "time",
+  "example": "现在是什么时间？",
+  "example_pinyin": "xiàn zài shì shén me shí jiān?",
+  "explanation": "Means 'What time is it now?' 时 means 'time'."
+},
+{
+  "char": "服",
+  "pinyin": "fú",
+  "meaning": "clothes (part of 衣服)",
+  "example": "这件衣服很好看。",
+  "example_pinyin": "zhè jiàn yī fú hěn hǎo kàn.",
+  "explanation": "服 appears in 衣服 (clothes)."
+},
+{
+  "char": "了",
+  "pinyin": "le",
+  "meaning": "completion particle",
+  "example": "我吃了饭。",
+  "example_pinyin": "wǒ chī le fàn.",
+  "explanation": "Indicates completed action. Means 'I ate food.'"
+},
+{
+  "char": "站",
+  "pinyin": "zhàn",
+  "meaning": "to stand",
+  "example": "他站在那里。",
+  "example_pinyin": "tā zhàn zài nà lǐ.",
+  "explanation": "Means 'He stands there.' 站 means 'to stand'."
+},
+{
+  "char": "坐",
+  "pinyin": "zuò",
+  "meaning": "to sit",
+  "example": "请坐。",
+  "example_pinyin": "qǐng zuò.",
+  "explanation": "Means 'Please sit.' 坐 means 'to sit'."
+},
+{
+  "char": "认",
+  "pinyin": "rèn",
+  "meaning": "to recognize, admit",
+  "example": "我认识他。",
+  "example_pinyin": "wǒ rèn shi tā.",
+  "explanation": "Means 'I know him.' 认 appears in 认识 (to know/recognize)."
+},
+{
+  "char": "识",
+  "pinyin": "shí",
+  "meaning": "to know, recognize (part of 认识)",
+  "example": "我认识他。",
+  "example_pinyin": "wǒ rèn shi tā.",
+  "explanation": "识 is used with 认 to form 认识 (to know someone)."
+},
+{
+  "char": "馆",
+  "pinyin": "guǎn",
+  "meaning": "place, building, venue",
+  "example": "我去图书馆。",
+  "example_pinyin": "wǒ qù tú shū guǎn.",
+  "explanation": "Means 'I go to the library.' 馆 refers to places like buildings."
+},
+{
+  "char": "园",
+  "pinyin": "yuán",
+  "meaning": "garden, public place",
+  "example": "我在公园。",
+  "example_pinyin": "wǒ zài gōng yuán.",
+  "explanation": "Means 'I am in the park.' 园 appears in 公园 (park)."
+},
+{
+  "char": "什",
+  "pinyin": "shén",
+  "meaning": "what (part of 什么)",
+  "example": "你做什么？",
+  "example_pinyin": "nǐ zuò shén me?",
+  "explanation": "什 is used in 什么 (what)."
+},
+{
+  "char": "么",
+  "pinyin": "me",
+  "meaning": "suffix (used in 什么)",
+  "example": "这是什么？",
+  "example_pinyin": "zhè shì shén me?",
+  "explanation": "么 is a question suffix used in 什么 (what)."
+},
+{
+  "char": "谁",
+  "pinyin": "shuí",
+  "meaning": "who",
+  "example": "他是谁？",
+  "example_pinyin": "tā shì shuí?",
+  "explanation": "Means 'Who is he?' 谁 means 'who'."
+},
+{
+  "char": "怎",
+  "pinyin": "zěn",
+  "meaning": "how (part of 怎么)",
+  "example": "你怎么去？",
+  "example_pinyin": "nǐ zěn me qù?",
+  "explanation": "怎 is used in 怎么 (how)."
+},
+{
+  "char": "哪",
+  "pinyin": "nǎ",
+  "meaning": "which, where",
+  "example": "你在哪儿？",
+  "example_pinyin": "nǐ zài nǎr?",
+  "explanation": "Means 'Where are you?' 哪 means 'which/where'."
+},
+{
+  "char": "饭",
+  "pinyin": "fàn",
+  "meaning": "meal, food",
+  "example": "我吃饭。",
+  "example_pinyin": "wǒ chī fàn.",
+  "explanation": "Means 'I eat food.' 饭 means 'meal'."
+},
+{
+  "char": "住",
+  "pinyin": "zhù",
+  "meaning": "to live, reside",
+  "example": "我住在这里。",
+  "example_pinyin": "wǒ zhù zài zhè lǐ.",
+  "explanation": "Means 'I live here.' 住 means 'to live'."
+},
+{
+  "char": "几",
+  "pinyin": "jǐ",
+  "meaning": "how many (small number)",
+  "example": "你有几个朋友？",
+  "example_pinyin": "nǐ yǒu jǐ ge péng yǒu?",
+  "explanation": "Means 'How many friends do you have?' 几 is used for small numbers."
+},
+{
+  "char": "一",
+  "pinyin": "yī",
+  "meaning": "one",
+  "example": "我有一个苹果。",
+  "example_pinyin": "wǒ yǒu yí ge píng guǒ.",
+  "explanation": "Means 'I have one apple.' 一 means 'one'."
+},
+{
+  "char": "二",
+  "pinyin": "èr",
+  "meaning": "two",
+  "example": "我有两个朋友。",
+  "example_pinyin": "wǒ yǒu liǎng ge péng yǒu.",
+  "explanation": "Means 'I have two friends.' 二 means 'two'."
+},
+{
+  "char": "三",
+  "pinyin": "sān",
+  "meaning": "three",
+  "example": "现在是三点。",
+  "example_pinyin": "xiàn zài shì sān diǎn.",
+  "explanation": "Means 'It is 3 o'clock now.' 三 means 'three'."
+},
+{
+  "char": "四",
+  "pinyin": "sì",
+  "meaning": "four",
+  "example": "四个人来了。",
+  "example_pinyin": "sì ge rén lái le.",
+  "explanation": "Means 'Four people came.' 四 means 'four'."
+},
+{
+  "char": "五",
+  "pinyin": "wǔ",
+  "meaning": "five",
+  "example": "我有五本书。",
+  "example_pinyin": "wǒ yǒu wǔ běn shū.",
+  "explanation": "Means 'I have five books.' 五 means 'five'."
+},
+{
+  "char": "六",
+  "pinyin": "liù",
+  "meaning": "six",
+  "example": "现在是六点。",
+  "example_pinyin": "xiàn zài shì liù diǎn.",
+  "explanation": "Means 'It is 6 o'clock.' 六 means 'six'."
+},
+{
+  "char": "七",
+  "pinyin": "qī",
+  "meaning": "seven",
+  "example": "七天一周。",
+  "example_pinyin": "qī tiān yì zhōu.",
+  "explanation": "Means 'Seven days make a week.' 七 means 'seven'."
+},
+{
+  "char": "八",
+  "pinyin": "bā",
+  "meaning": "eight",
+  "example": "我八点起床。",
+  "example_pinyin": "wǒ bā diǎn qǐ chuáng.",
+  "explanation": "Means 'I wake up at 8.' 八 means 'eight'."
+},
+{
+  "char": "九",
+  "pinyin": "jiǔ",
+  "meaning": "nine",
+  "example": "现在是九点。",
+  "example_pinyin": "xiàn zài shì jiǔ diǎn.",
+  "explanation": "Means 'It is 9 o'clock.' 九 means 'nine'."
+},
+{
+  "char": "十",
+  "pinyin": "shí",
+  "meaning": "ten",
+  "example": "十个人来了。",
+  "example_pinyin": "shí ge rén lái le.",
+  "explanation": "Means 'Ten people came.' 十 means 'ten'."
+},
+{
+  "char": "师",
+  "pinyin": "shī",
+  "meaning": "teacher (part of 老师)",
+  "example": "他是老师。",
+  "example_pinyin": "tā shì lǎo shī.",
+  "explanation": "Means 'He is a teacher.' 师 appears in 老师 (teacher)."
+},
+{
+  "char": "岁",
+  "pinyin": "suì",
+  "meaning": "year (age)",
+  "example": "我二十岁。",
+  "example_pinyin": "wǒ èr shí suì.",
+  "explanation": "Means 'I am 20 years old.' 岁 is used for age."
+},
+{
+  "char": "明",
+  "pinyin": "míng",
+  "meaning": "bright",
+  "example": "灯很明。",
+  "example_pinyin": "dēng hěn míng.",
+  "explanation": "Means 'The light is bright.' 明 means 'bright'."
+},
+{
+  "char": "今",
+  "pinyin": "jīn",
+  "meaning": "present, now",
+  "example": "今天很热。",
+  "example_pinyin": "jīn tiān hěn rè.",
+  "explanation": "Means 'Today is very hot.' 今 appears in 今天 (today)."
+},
+{
+  "char": "好",
+  "pinyin": "hǎo",
+  "meaning": "good",
+  "example": "你好！",
+  "example_pinyin": "nǐ hǎo!",
+  "explanation": "Means 'Hello!' 好 means 'good'."
+},
+{
+  "char": "很",
+  "pinyin": "hěn",
+  "meaning": "very",
+  "example": "他很好。",
+  "example_pinyin": "tā hěn hǎo.",
+  "explanation": "Means 'He is very good.' 很 means 'very'."
+},
+{
+  "char": "小",
+  "pinyin": "xiǎo",
+  "meaning": "small, young",
+  "example": "这个孩子很小。",
+  "example_pinyin": "zhè ge hái zi hěn xiǎo.",
+  "explanation": "Means 'This child is small.' 小 means 'small/young'."
+},
+{
+  "char": "租",
+  "pinyin": "zū",
+  "meaning": "to rent",
+  "example": "我租房子。",
+  "example_pinyin": "wǒ zū fáng zi.",
+  "explanation": "Means 'I rent a house.' 租 means 'to rent'."
+},
+{
+  "char": "店",
+  "pinyin": "diàn",
+  "meaning": "shop, store",
+  "example": "我去商店。",
+  "example_pinyin": "wǒ qù shāng diàn.",
+  "explanation": "Means 'I go to the shop.' 店 means 'store'."
+},
+{
+  "char": "先",
+  "pinyin": "xiān",
+  "meaning": "first, before",
+  "example": "我先走。",
+  "example_pinyin": "wǒ xiān zǒu.",
+  "explanation": "Means 'I go first.' 先 means 'first'."
+},
+{
+  "char": "校",
+  "pinyin": "xiào",
+  "meaning": "school (part of 学校)",
+  "example": "我去学校。",
+  "example_pinyin": "wǒ qù xué xiào.",
+  "explanation": "校 appears in 学校 (school)."
+},
+{
+  "char": "昨",
+  "pinyin": "zuó",
+  "meaning": "yesterday (part of 昨天)",
+  "example": "昨天我很忙。",
+  "example_pinyin": "zuó tiān wǒ hěn máng.",
+  "explanation": "昨 appears in 昨天 (yesterday)."
+},
+{
+  "char": "想",
+  "pinyin": "xiǎng",
+  "meaning": "to think, to miss, to want",
+  "example": "我想你。",
+  "example_pinyin": "wǒ xiǎng nǐ.",
+  "explanation": "Means 'I miss you.' 想 means 'to think or miss'."
+},
+{
+  "char": "的",
+  "pinyin": "de",
+  "meaning": "possessive/attribute particle",
+  "example": "这是我的书。",
+  "example_pinyin": "zhè shì wǒ de shū.",
+  "explanation": "的 shows possession (my, your, etc.)."
+},
+{
+  "char": "日",
+  "pinyin": "rì",
+  "meaning": "sun, day",
+  "example": "今天是好日子。",
+  "example_pinyin": "jīn tiān shì hǎo rì zi.",
+  "explanation": "Means 'Today is a good day.' 日 means 'sun/day'."
+},
+{
+  "char": "钟",
+  "pinyin": "zhōng",
+  "meaning": "clock, time",
+  "example": "现在是三点钟。",
+  "example_pinyin": "xiàn zài shì sān diǎn zhōng.",
+  "explanation": "Means 'It is 3 o'clock now.' 钟 means 'clock/time'."
+},
+{
+  "char": "杯",
+  "pinyin": "bēi",
+  "meaning": "cup, glass",
+  "example": "我喝一杯水。",
+  "example_pinyin": "wǒ hē yì bēi shuǐ.",
+  "explanation": "Means 'I drink a cup of water.' 杯 means 'cup'."
+},
+{
+  "char": "做",
+  "pinyin": "zuò",
+  "meaning": "to do, to make",
+  "example": "我做作业。",
+  "example_pinyin": "wǒ zuò zuò yè.",
+  "explanation": "Means 'I do homework.' 做 means 'to do or make'."
+},
+{
+  "char": "工",
+  "pinyin": "gōng",
+  "meaning": "work, industry",
+  "example": "他去工作。",
+  "example_pinyin": "tā qù gōng zuò.",
+  "explanation": "Means 'He goes to work.' 工 relates to work."
+},
+{
+  "char": "中",
+  "pinyin": "zhōng",
+  "meaning": "middle, inside",
+  "example": "我在家中。",
+  "example_pinyin": "wǒ zài jiā zhōng.",
+  "explanation": "Means 'I am inside the house.' 中 means 'middle/inside'."
+},
+{
+  "char": "下",
+  "pinyin": "xià",
+  "meaning": "down, to go down",
+  "example": "雨下了。",
+  "example_pinyin": "yǔ xià le.",
+  "explanation": "Means 'It started raining.' 下 means 'down'."
+},
+{
+  "char": "开",
+  "pinyin": "kāi",
+  "meaning": "to open, switch on",
+  "example": "请开门。",
+  "example_pinyin": "qǐng kāi mén.",
+  "explanation": "Means 'Please open the door.' 开 means 'open'."
+},
+{
+  "char": "关",
+  "pinyin": "guān",
+  "meaning": "to close, turn off",
+  "example": "请关灯。",
+  "example_pinyin": "qǐng guān dēng.",
+  "explanation": "Means 'Please turn off the light.' 关 means 'close'."
+},
+{
+  "char": "欢",
+  "pinyin": "huān",
+  "meaning": "happy, pleased (part of 喜欢)",
+  "example": "我喜欢你。",
+  "example_pinyin": "wǒ xǐ huān nǐ.",
+  "explanation": "欢 appears in 喜欢 (to like)."
+},
+{
+  "char": "话",
+  "pinyin": "huà",
+  "meaning": "speech, words",
+  "example": "他说话。",
+  "example_pinyin": "tā shuō huà.",
+  "explanation": "Means 'He speaks.' 话 means 'speech/words'."
+},
+{
+  "char": "起",
+  "pinyin": "qǐ",
+  "meaning": "to rise, get up",
+  "example": "我早上起床。",
+  "example_pinyin": "wǒ zǎo shang qǐ chuáng.",
+  "explanation": "Means 'I get up in the morning.' 起 means 'to rise'."
+},
+{
+  "char": "太",
+  "pinyin": "tài",
+  "meaning": "too, very",
+  "example": "太好了！",
+  "example_pinyin": "tài hǎo le!",
+  "explanation": "Means 'Very good!' 太 is used to express degree."
+},
+{
+  "char": "气",
+  "pinyin": "qì",
+  "meaning": "air, gas (part of 天气)",
+  "example": "今天天气很好。",
+  "example_pinyin": "jīn tiān tiān qì hěn hǎo.",
+  "explanation": "气 means 'air' and appears in 天气 (weather)."
+},
+{
+  "char": "叫",
+  "pinyin": "jiào",
+  "meaning": "to call, shout, be called",
+  "example": "我叫李华。",
+  "example_pinyin": "wǒ jiào lǐ huá.",
+  "explanation": "Means 'My name is Li Hua.' 叫 is used to say one's name."
+},
+{
+  "char": "买",
+  "pinyin": "mǎi",
+  "meaning": "to buy",
+  "example": "我买东西。",
+  "example_pinyin": "wǒ mǎi dōng xi.",
+  "explanation": "Means 'I buy things.' 买 means 'to buy'."
+},
+{
+  "char": "那",
+  "pinyin": "nà",
+  "meaning": "that",
+  "example": "那是我的书。",
+  "example_pinyin": "nà shì wǒ de shū.",
+  "explanation": "Means 'That is my book.' 那 means 'that'."
+},
+{
+  "char": "做",
+  "pinyin": "zuò",
+  "meaning": "to do, to make",
+  "example": "我做饭。",
+  "example_pinyin": "wǒ zuò fàn.",
+  "explanation": "Means 'I cook food.' 做 means 'to do or make'."
+},
+{
+  "char": "些",
+  "pinyin": "xiē",
+  "meaning": "some, a few",
+  "example": "我有一些书。",
+  "example_pinyin": "wǒ yǒu yì xiē shū.",
+  "explanation": "Means 'I have some books.' 些 means 'some'."
+},
+{
+  "char": "期",
+  "pinyin": "qī",
+  "meaning": "period, time",
+  "example": "学习期间很重要。",
+  "example_pinyin": "xué xí qī jiān hěn zhòng yào.",
+  "explanation": "期 means 'period of time'."
+},
+{
+  "char": "见",
+  "pinyin": "jiàn",
+  "meaning": "to see, to meet",
+  "example": "很高兴见你。",
+  "example_pinyin": "hěn gāo xìng jiàn nǐ.",
+  "explanation": "Means 'Nice to meet you.' 见 means 'to see/meet'."
+},
+{
+  "char": "样",
+  "pinyin": "yàng",
+  "meaning": "kind, type, sample",
+  "example": "这是什么样的书？",
+  "example_pinyin": "zhè shì shén me yàng de shū?",
+  "explanation": "Means 'What kind of book is this?' 样 means 'type/kind'."
+},
+{
+  "char": "候",
+  "pinyin": "hòu",
+  "meaning": "time (part of 时候)",
+  "example": "什么时候去？",
+  "example_pinyin": "shén me shí hòu qù?",
+  "explanation": "候 appears in 时候 (time)."
+},
+{
+  "char": "衣",
+  "pinyin": "yī",
+  "meaning": "clothes (part of 衣服)",
+  "example": "我买衣服。",
+  "example_pinyin": "wǒ mǎi yī fú.",
+  "explanation": "衣 means clothing and appears in 衣服."
+},
+{
+  "char": "听",
+  "pinyin": "tīng",
+  "meaning": "to listen, hear",
+  "example": "我听音乐。",
+  "example_pinyin": "wǒ tīng yīn yuè.",
+  "explanation": "Means 'I listen to music.' 听 means 'to listen'."
+},
+{
+  "char": "飞",
+  "pinyin": "fēi",
+  "meaning": "to fly",
+  "example": "鸟会飞。",
+  "example_pinyin": "niǎo huì fēi.",
+  "explanation": "Means 'Birds can fly.' 飞 means 'to fly'."
+},
+{
+  "char": "觉",
+  "pinyin": "jué",
+  "meaning": "to feel, sense",
+  "example": "我觉得很好。",
+  "example_pinyin": "wǒ jué de hěn hǎo.",
+  "explanation": "Means 'I feel it's very good.' 觉 means 'to feel'."
+},
+{
+  "char": "块",
+  "pinyin": "kuài",
+  "meaning": "piece, lump",
+  "example": "一块面包。",
+  "example_pinyin": "yí kuài miàn bāo.",
+  "explanation": "Means 'a piece of bread.' 块 is used for pieces."
+},
+{
+  "char": "呢",
+  "pinyin": "ne",
+  "meaning": "question particle",
+  "example": "你呢？",
+  "example_pinyin": "nǐ ne?",
+  "explanation": "Used to ask 'And you?' or continue a question."
+},
+{
+  "char": "雨",
+  "pinyin": "yǔ",
+  "meaning": "rain",
+  "example": "今天下雨。",
+  "example_pinyin": "jīn tiān xià yǔ.",
+  "explanation": "Means 'It is raining today.' 雨 means 'rain'."
+},
+{
+  "char": "苹",
+  "pinyin": "píng",
+  "meaning": "apple (part of 苹果)",
+  "example": "我吃苹果。",
+  "example_pinyin": "wǒ chī píng guǒ.",
+  "explanation": "苹 appears in 苹果 (apple)."
+},
+{
+  "char": "个",
+  "pinyin": "gè",
+  "meaning": "general measure word",
+  "example": "一个人。",
+  "example_pinyin": "yí ge rén.",
+  "explanation": "Means 'one person.' 个 is a common measure word."
+},
+{
+  "char": "看",
+  "pinyin": "kàn",
+  "meaning": "to look, see, read",
+  "example": "我看书。",
+  "example_pinyin": "wǒ kàn shū.",
+  "explanation": "Means 'I read a book.' 看 means 'to look or read'."
+},
+{
+  "char": "老",
+  "pinyin": "lǎo",
+  "meaning": "old",
+  "example": "他很老。",
+  "example_pinyin": "tā hěn lǎo.",
+  "explanation": "Means 'He is old.' 老 means 'old'."
+},
+{
+  "char": "果",
+  "pinyin": "guǒ",
+  "meaning": "fruit, result",
+  "example": "我吃水果。",
+  "example_pinyin": "wǒ chī shuǐ guǒ.",
+  "explanation": "Means 'I eat fruit.' 果 means 'fruit'."
+},
+{
+  "char": "喂",
+  "pinyin": "wèi",
+  "meaning": "to feed; hello (on phone)",
+  "example": "喂，你好！",
+  "example_pinyin": "wèi, nǐ hǎo!",
+  "explanation": "Used like 'hello' when answering the phone."
+},
+{
+  "char": "午",
+  "pinyin": "wǔ",
+  "meaning": "noon",
+  "example": "中午吃饭。",
+  "example_pinyin": "zhōng wǔ chī fàn.",
+  "explanation": "Means 'Eat at noon.' 午 means 'noon'."
+},
+{
+  "char": "有",
+  "pinyin": "yǒu",
+  "meaning": "to have, there is",
+  "example": "我有书。",
+  "example_pinyin": "wǒ yǒu shū.",
+  "explanation": "Means 'I have a book.' 有 means 'to have'."
+},
+{
+  "char": "系",
+  "pinyin": "jì",
+  "meaning": "to tie, to fasten",
+  "example": "请系安全带。",
+  "example_pinyin": "qǐng jì ān quán dài.",
+  "explanation": "Means 'Please fasten your seatbelt.' 系 means 'to tie or fasten'."
+},
+{
+  "char": "在",
+  "pinyin": "zài",
+  "meaning": "in, at, to be located",
+  "example": "我在家。",
+  "example_pinyin": "wǒ zài jiā.",
+  "explanation": "Means 'I am at home.' 在 indicates location."
+}
+  ],
+  "hsk2": [
+{
+  "char": "手",
+  "pinyin": "shǒu",
+  "meaning": "hand",
+  "example": "我用手写字。",
+  "example_pinyin": "wǒ yòng shǒu xiě zì.",
+  "explanation": "Means 'I write with my hand.' 手 means 'hand'."
+},
+{
+  "char": "眼",
+  "pinyin": "yǎn",
+  "meaning": "eye",
+  "example": "我的眼很大。",
+  "example_pinyin": "wǒ de yǎn hěn dà.",
+  "explanation": "Means 'My eyes are big.' 眼 means 'eye'."
+},
+{
+  "char": "雪",
+  "pinyin": "xuě",
+  "meaning": "snow",
+  "example": "今天下雪。",
+  "example_pinyin": "jīn tiān xià xuě.",
+  "explanation": "Means 'It is snowing today.' 雪 means 'snow'."
+},
+{
+  "char": "左",
+  "pinyin": "zuǒ",
+  "meaning": "left",
+  "example": "向左走。",
+  "example_pinyin": "xiàng zuǒ zǒu.",
+  "explanation": "Means 'Walk to the left.' 左 means 'left'."
+},
+{
+  "char": "右",
+  "pinyin": "yòu",
+  "meaning": "right",
+  "example": "向右看。",
+  "example_pinyin": "xiàng yòu kàn.",
+  "explanation": "Means 'Look to the right.' 右 means 'right'."
+},
+{
+  "char": "阴",
+  "pinyin": "yīn",
+  "meaning": "shade, cloudy",
+  "example": "今天是阴天。",
+  "example_pinyin": "jīn tiān shì yīn tiān.",
+  "explanation": "Means 'Today is cloudy.' 阴 means 'shade/cloudy'."
+},
+{
+  "char": "玩",
+  "pinyin": "wán",
+  "meaning": "to play",
+  "example": "我玩游戏。",
+  "example_pinyin": "wǒ wán yóu xì.",
+  "explanation": "Means 'I play games.' 玩 means 'to play'."
+},
+{
+  "char": "长",
+  "pinyin": "cháng",
+  "meaning": "long",
+  "example": "这条路很长。",
+  "example_pinyin": "zhè tiáo lù hěn cháng.",
+  "explanation": "Means 'This road is long.' 长 means 'long'."
+},
+{
+  "char": "乐",
+  "pinyin": "lè",
+  "meaning": "happy, joy",
+  "example": "我很快乐。",
+  "example_pinyin": "wǒ hěn kuài lè.",
+  "explanation": "Means 'I am very happy.' 乐 relates to happiness."
+},
+{
+  "char": "笑",
+  "pinyin": "xiào",
+  "meaning": "to laugh, smile",
+  "example": "她笑了。",
+  "example_pinyin": "tā xiào le.",
+  "explanation": "Means 'She smiled.' 笑 means 'to laugh or smile'."
+},
+{
+  "char": "纸",
+  "pinyin": "zhǐ",
+  "meaning": "paper",
+  "example": "我写在纸上。",
+  "example_pinyin": "wǒ xiě zài zhǐ shàng.",
+  "explanation": "Means 'I write on paper.' 纸 means 'paper'."
+},
+{
+  "char": "牛",
+  "pinyin": "niú",
+  "meaning": "cow, cattle",
+  "example": "牛吃草。",
+  "example_pinyin": "niú chī cǎo.",
+  "explanation": "Means 'Cows eat grass.' 牛 means 'cow'."
+},
+{
+  "char": "羊",
+  "pinyin": "yáng",
+  "meaning": "sheep",
+  "example": "羊在山上。",
+  "example_pinyin": "yáng zài shān shàng.",
+  "explanation": "Means 'Sheep are on the mountain.' 羊 means 'sheep'."
+},
+{
+  "char": "鸡",
+  "pinyin": "jī",
+  "meaning": "chicken",
+  "example": "我吃鸡。",
+  "example_pinyin": "wǒ chī jī.",
+  "explanation": "Means 'I eat chicken.' 鸡 means 'chicken'."
+},
+{
+  "char": "外",
+  "pinyin": "wài",
+  "meaning": "outside",
+  "example": "他在外面。",
+  "example_pinyin": "tā zài wài miàn.",
+  "explanation": "Means 'He is outside.' 外 means 'outside'."
+},
+{
+  "char": "夫",
+  "pinyin": "fū",
+  "meaning": "husband (formal)",
+  "example": "他们是夫妻。",
+  "example_pinyin": "tā men shì fū qī.",
+  "explanation": "夫 means 'husband' and is used in 夫妻 (married couple)."
+},
+{
+  "char": "妻",
+  "pinyin": "qī",
+  "meaning": "wife",
+  "example": "他和妻子在家。",
+  "example_pinyin": "tā hé qī zi zài jiā.",
+  "explanation": "妻 means 'wife'."
+},
+{
+  "char": "黑",
+  "pinyin": "hēi",
+  "meaning": "black",
+  "example": "这只猫是黑的。",
+  "example_pinyin": "zhè zhī māo shì hēi de.",
+  "explanation": "Means 'This cat is black.' 黑 means 'black'."
+},
+{
+  "char": "白",
+  "pinyin": "bái",
+  "meaning": "white",
+  "example": "雪是白的。",
+  "example_pinyin": "xuě shì bái de.",
+  "explanation": "Means 'Snow is white.' 白 means 'white'."
+},
+{
+  "char": "红",
+  "pinyin": "hóng",
+  "meaning": "red",
+  "example": "苹果是红的。",
+  "example_pinyin": "píng guǒ shì hóng de.",
+  "explanation": "Means 'Apples are red.' 红 means 'red'."
+},
+{
+  "char": "教",
+  "pinyin": "jiào",
+  "meaning": "to teach; religion",
+  "example": "老师教我们。",
+  "example_pinyin": "lǎo shī jiào wǒ men.",
+  "explanation": "Means 'The teacher teaches us.' 教 means 'to teach'."
+},
+{
+  "char": "歌",
+  "pinyin": "gē",
+  "meaning": "song",
+  "example": "我听歌。",
+  "example_pinyin": "wǒ tīng gē.",
+  "explanation": "Means 'I listen to songs.' 歌 means 'song'."
+},
+{
+  "char": "舞",
+  "pinyin": "wǔ",
+  "meaning": "dance",
+  "example": "她跳舞。",
+  "example_pinyin": "tā tiào wǔ.",
+  "explanation": "Means 'She dances.' 舞 means 'dance'."
+},
+{
+  "char": "哥",
+  "pinyin": "gē",
+  "meaning": "elder brother",
+  "example": "我哥哥很高。",
+  "example_pinyin": "wǒ gē ge hěn gāo.",
+  "explanation": "哥 means 'elder brother'."
+},
+{
+  "char": "弟",
+  "pinyin": "dì",
+  "meaning": "younger brother",
+  "example": "我有一个弟弟。",
+  "example_pinyin": "wǒ yǒu yí ge dì di.",
+  "explanation": "弟 means 'younger brother'."
+},
+{
+  "char": "妹",
+  "pinyin": "mèi",
+  "meaning": "younger sister",
+  "example": "我妹妹很小。",
+  "example_pinyin": "wǒ mèi mei hěn xiǎo.",
+  "explanation": "妹 means 'younger sister'."
+},
+{
+  "char": "姐",
+  "pinyin": "jiě",
+  "meaning": "elder sister",
+  "example": "我姐姐在家。",
+  "example_pinyin": "wǒ jiě jie zài jiā.",
+  "explanation": "姐 means 'elder sister'."
+},
+{
+  "char": "身",
+  "pinyin": "shēn",
+  "meaning": "body",
+  "example": "他身体很好。",
+  "example_pinyin": "tā shēn tǐ hěn hǎo.",
+  "explanation": "Means 'His body is healthy.' 身 means 'body'."
+},
+{
+  "char": "蛋",
+  "pinyin": "dàn",
+  "meaning": "egg",
+  "example": "我吃鸡蛋。",
+  "example_pinyin": "wǒ chī jī dàn.",
+  "explanation": "Means 'I eat eggs.' 蛋 means 'egg'."
+},
+{
+  "char": "病",
+  "pinyin": "bìng",
+  "meaning": "illness, sickness",
+  "example": "他生病了。",
+  "example_pinyin": "tā shēng bìng le.",
+  "explanation": "Means 'He is sick.' 病 means 'illness'."
+},
+{
+  "char": "忙",
+  "pinyin": "máng",
+  "meaning": "busy",
+  "example": "我很忙。",
+  "example_pinyin": "wǒ hěn máng.",
+  "explanation": "Means 'I am very busy.' 忙 means 'busy'."
+},
+{
+  "char": "表",
+  "pinyin": "biǎo",
+  "meaning": "watch, table, form",
+  "example": "这是我的手表。",
+  "example_pinyin": "zhè shì wǒ de shǒu biǎo.",
+  "explanation": "Means 'This is my watch.' 表 can mean 'watch' or 'form'."
+},
+{
+  "char": "运",
+  "pinyin": "yùn",
+  "meaning": "to carry, transport; luck",
+  "example": "他的运气很好。",
+  "example_pinyin": "tā de yùn qì hěn hǎo.",
+  "explanation": "Means 'He has good luck.' 运 relates to movement or luck."
+},
+{
+  "char": "思",
+  "pinyin": "sī",
+  "meaning": "to think, consider",
+  "example": "我在思考。",
+  "example_pinyin": "wǒ zài sī kǎo.",
+  "explanation": "Means 'I am thinking.' 思 means 'to think'."
+},
+{
+  "char": "咖",
+  "pinyin": "kā",
+  "meaning": "used in 咖啡 (coffee)",
+  "example": "我喝咖啡。",
+  "example_pinyin": "wǒ hē kā fēi.",
+  "explanation": "咖 is used in 咖啡 (coffee)."
+},
+{
+  "char": "啡",
+  "pinyin": "fēi",
+  "meaning": "used in 咖啡 (coffee)",
+  "example": "我喜欢咖啡。",
+  "example_pinyin": "wǒ xǐ huān kā fēi.",
+  "explanation": "啡 is used in 咖啡 (coffee)."
+},
+{
+  "char": "正",
+  "pinyin": "zhèng",
+  "meaning": "correct, proper; just (now)",
+  "example": "现在正好。",
+  "example_pinyin": "xiàn zài zhèng hǎo.",
+  "explanation": "Means 'Now is just right.' 正 means 'correct/proper'."
+},
+{
+  "char": "肉",
+  "pinyin": "ròu",
+  "meaning": "meat",
+  "example": "我吃肉。",
+  "example_pinyin": "wǒ chī ròu.",
+  "explanation": "Means 'I eat meat.' 肉 means 'meat'."
+},
+{
+  "char": "票",
+  "pinyin": "piào",
+  "meaning": "ticket",
+  "example": "我买票。",
+  "example_pinyin": "wǒ mǎi piào.",
+  "explanation": "Means 'I buy a ticket.' 票 means 'ticket'."
+},
+{
+  "char": "次",
+  "pinyin": "cì",
+  "meaning": "time (measure word), secondary",
+  "example": "我去过两次。",
+  "example_pinyin": "wǒ qù guò liǎng cì.",
+  "explanation": "Means 'I have been twice.' 次 is used to count times."
+},
+{
+  "char": "吧",
+  "pinyin": "ba",
+  "meaning": "suggestion particle",
+  "example": "我们走吧。",
+  "example_pinyin": "wǒ men zǒu ba.",
+  "explanation": "Means 'Let's go.' 吧 is used to suggest."
+},
+{
+  "char": "真",
+  "pinyin": "zhēn",
+  "meaning": "true, really",
+  "example": "你真好。",
+  "example_pinyin": "nǐ zhēn hǎo.",
+  "explanation": "Means 'You are really good.' 真 means 'really/true'."
+},
+{
+  "char": "元",
+  "pinyin": "yuán",
+  "meaning": "yuan (currency)",
+  "example": "这个十元。",
+  "example_pinyin": "zhè ge shí yuán.",
+  "explanation": "Means 'This costs 10 yuan.' 元 is Chinese currency."
+},
+{
+  "char": "您",
+  "pinyin": "nín",
+  "meaning": "you (respectful form)",
+  "example": "您好！",
+  "example_pinyin": "nín hǎo!",
+  "explanation": "Means 'Hello (respectfully).' 您 is polite 'you'."
+},
+{
+  "char": "动",
+  "pinyin": "dòng",
+  "meaning": "to move",
+  "example": "不要动。",
+  "example_pinyin": "bú yào dòng.",
+  "explanation": "Means 'Don't move.' 动 means 'to move'."
+},
+{
+  "char": "问",
+  "pinyin": "wèn",
+  "meaning": "to ask",
+  "example": "我问老师。",
+  "example_pinyin": "wǒ wèn lǎo shī.",
+  "explanation": "Means 'I ask the teacher.' 问 means 'to ask'."
+},
+{
+  "char": "答",
+  "pinyin": "dá",
+  "meaning": "to answer",
+  "example": "他回答问题。",
+  "example_pinyin": "tā huí dá wèn tí.",
+  "explanation": "Means 'He answers questions.' 答 means 'to answer'."
+},
+{
+  "char": "找",
+  "pinyin": "zhǎo",
+  "meaning": "to find; to give change",
+  "example": "我找钱。",
+  "example_pinyin": "wǒ zhǎo qián.",
+  "explanation": "Means 'I give change.' 找 can mean 'to find' or 'give change'."
+},
+{
+  "char": "洗",
+  "pinyin": "xǐ",
+  "meaning": "to wash",
+  "example": "我洗手。",
+  "example_pinyin": "wǒ xǐ shǒu.",
+  "explanation": "Means 'I wash my hands.' 洗 means 'to wash'."
+},
+{
+  "char": "新",
+  "pinyin": "xīn",
+  "meaning": "new",
+  "example": "这是新书。",
+  "example_pinyin": "zhè shì xīn shū.",
+  "explanation": "Means 'This is a new book.' 新 means 'new'."
+},
+{
+  "char": "帮",
+  "pinyin": "bāng",
+  "meaning": "to help",
+  "example": "我帮你。",
+  "example_pinyin": "wǒ bāng nǐ.",
+  "explanation": "Means 'I help you.' 帮 means 'to help'."
+},
+{
+  "char": "药",
+  "pinyin": "yào",
+  "meaning": "medicine, drug",
+  "example": "我吃药。",
+  "example_pinyin": "wǒ chī yào.",
+  "explanation": "Means 'I take medicine.' 药 means 'medicine'."
+},
+{
+  "char": "路",
+  "pinyin": "lù",
+  "meaning": "road, path",
+  "example": "这条路很长。",
+  "example_pinyin": "zhè tiáo lù hěn cháng.",
+  "explanation": "Means 'This road is long.' 路 means 'road'."
+},
+{
+  "char": "穿",
+  "pinyin": "chuān",
+  "meaning": "to wear, put on",
+  "example": "我穿衣服。",
+  "example_pinyin": "wǒ chuān yī fú.",
+  "explanation": "Means 'I wear clothes.' 穿 means 'to wear'."
+},
+{
+  "char": "事",
+  "pinyin": "shì",
+  "meaning": "matter, thing",
+  "example": "这件事很重要。",
+  "example_pinyin": "zhè jiàn shì hěn zhòng yào.",
+  "explanation": "Means 'This matter is important.' 事 means 'thing/matter'."
+},
+{
+  "char": "床",
+  "pinyin": "chuáng",
+  "meaning": "bed",
+  "example": "我在床上。",
+  "example_pinyin": "wǒ zài chuáng shàng.",
+  "explanation": "Means 'I am on the bed.' 床 means 'bed'."
+},
+{
+  "char": "船",
+  "pinyin": "chuán",
+  "meaning": "boat, ship",
+  "example": "船在水上。",
+  "example_pinyin": "chuán zài shuǐ shàng.",
+  "explanation": "Means 'The boat is on the water.' 船 means 'boat'."
+},
+{
+  "char": "等",
+  "pinyin": "děng",
+  "meaning": "to wait",
+  "example": "请等一下。",
+  "example_pinyin": "qǐng děng yí xià.",
+  "explanation": "Means 'Please wait a moment.' 等 means 'to wait'."
+},
+{
+  "char": "离",
+  "pinyin": "lí",
+  "meaning": "to leave; away from",
+  "example": "他离开家。",
+  "example_pinyin": "tā lí kāi jiā.",
+  "explanation": "Means 'He leaves home.' 离 means 'to leave' or 'away from'."
+},
+{
+  "char": "错",
+  "pinyin": "cuò",
+  "meaning": "wrong, mistake",
+  "example": "这是错的。",
+  "example_pinyin": "zhè shì cuò de.",
+  "explanation": "Means 'This is wrong.' 错 means 'wrong'."
+},
+{
+  "char": "最",
+  "pinyin": "zuì",
+  "meaning": "most",
+  "example": "这是最好的。",
+  "example_pinyin": "zhè shì zuì hǎo de.",
+  "explanation": "Means 'This is the best.' 最 means 'most'."
+},
+{
+  "char": "已",
+  "pinyin": "yǐ",
+  "meaning": "already",
+  "example": "我已经吃饭了。",
+  "example_pinyin": "wǒ yǐ jīng chī fàn le.",
+  "explanation": "Means 'I have already eaten.' 已 appears in 已经."
+},
+{
+  "char": "共",
+  "pinyin": "gòng",
+  "meaning": "in total, altogether",
+  "example": "我们共有五个人。",
+  "example_pinyin": "wǒ men gòng yǒu wǔ ge rén.",
+  "explanation": "Means 'We have five people in total.' 共 means 'in total'."
+},
+{
+  "char": "就",
+  "pinyin": "jiù",
+  "meaning": "exactly, right away",
+  "example": "我马上就来。",
+  "example_pinyin": "wǒ mǎ shàng jiù lái.",
+  "explanation": "Means 'I will come right away.' 就 indicates immediacy."
+},
+{
+  "char": "行",
+  "pinyin": "xíng",
+  "meaning": "OK, to be possible",
+  "example": "这样可以吗？行！",
+  "example_pinyin": "zhè yàng kě yǐ ma? xíng!",
+  "explanation": "Means 'Is this okay? OK!' 行 means 'OK/possible'."
+},
+{
+  "char": "意",
+  "pinyin": "yì",
+  "meaning": "meaning, intention",
+  "example": "这个意思很好。",
+  "example_pinyin": "zhè ge yì si hěn hǎo.",
+  "explanation": "Means 'This meaning is good.' 意 relates to meaning."
+},
+{
+  "char": "公",
+  "pinyin": "gōng",
+  "meaning": "public",
+  "example": "这是公共地方。",
+  "example_pinyin": "zhè shì gōng gòng dì fāng.",
+  "explanation": "Means 'This is a public place.' 公 means 'public'."
+},
+{
+  "char": "别",
+  "pinyin": "bié",
+  "meaning": "don't",
+  "example": "别说话。",
+  "example_pinyin": "bié shuō huà.",
+  "explanation": "Means 'Don't speak.' 别 is used for negative commands."
+},
+{
+  "char": "报",
+  "pinyin": "bào",
+  "meaning": "newspaper",
+  "example": "我看报。",
+  "example_pinyin": "wǒ kàn bào.",
+  "explanation": "Means 'I read the newspaper.' 报 means 'newspaper'."
+},
+{
+  "char": "间",
+  "pinyin": "jiān",
+  "meaning": "space, interval",
+  "example": "房间很大。",
+  "example_pinyin": "fáng jiān hěn dà.",
+  "explanation": "Means 'The room is big.' 间 means 'space/room'."
+},
+{
+  "char": "过",
+  "pinyin": "guò",
+  "meaning": "indicating experience/completion",
+  "example": "我去过中国。",
+  "example_pinyin": "wǒ qù guò zhōng guó.",
+  "explanation": "Means 'I have been to China.' 过 indicates past experience."
+},
+{
+  "char": "着",
+  "pinyin": "zhe",
+  "meaning": "indicating ongoing action",
+  "example": "他看着书。",
+  "example_pinyin": "tā kàn zhe shū.",
+  "explanation": "Means 'He is reading.' 着 indicates ongoing action."
+},
+{
+  "char": "第",
+  "pinyin": "dì",
+  "meaning": "prefix for ordinal numbers",
+  "example": "这是第一名。",
+  "example_pinyin": "zhè shì dì yī míng.",
+  "explanation": "Means 'This is first place.' 第 is used for ordering numbers."
+},
+{
+  "char": "知",
+  "pinyin": "zhī",
+  "meaning": "to know, knowledge",
+  "example": "我不知道。",
+  "example_pinyin": "wǒ bù zhī dào.",
+  "explanation": "知 means 'to know' and appears in 知道."
+},
+{
+  "char": "道",
+  "pinyin": "dào",
+  "meaning": "way, to say, to know",
+  "example": "我知道。",
+  "example_pinyin": "wǒ zhī dào.",
+  "explanation": "道 appears in 知道 (to know)."
+},
+{
+  "char": "颜",
+  "pinyin": "yán",
+  "meaning": "color (part of 颜色)",
+  "example": "这个颜色很好看。",
+  "example_pinyin": "zhè ge yán sè hěn hǎo kàn.",
+  "explanation": "颜 appears in 颜色 (color)."
+},
+{
+  "char": "色",
+  "pinyin": "sè",
+  "meaning": "color",
+  "example": "这个颜色很好。",
+  "example_pinyin": "zhè ge yán sè hěn hǎo.",
+  "explanation": "色 means 'color'."
+},
+{
+  "char": "晴",
+  "pinyin": "qíng",
+  "meaning": "sunny",
+  "example": "今天是晴天。",
+  "example_pinyin": "jīn tiān shì qíng tiān.",
+  "explanation": "Means 'Today is sunny.' 晴 means 'sunny'."
+},
+{
+  "char": "助",
+  "pinyin": "zhù",
+  "meaning": "to help (formal)",
+  "example": "他帮助我。",
+  "example_pinyin": "tā bāng zhù wǒ.",
+  "explanation": "助 appears in 帮助 (to help)."
+},
+{
+  "char": "班",
+  "pinyin": "bān",
+  "meaning": "class, shift",
+  "example": "我在上班。",
+  "example_pinyin": "wǒ zài shàng bān.",
+  "explanation": "Means 'I am working.' 班 means 'class/shift'."
+},
+{
+  "char": "便",
+  "pinyin": "pián",
+  "meaning": "cheap, convenient",
+  "example": "这个很便宜。",
+  "example_pinyin": "zhè ge hěn pián yí.",
+  "explanation": "便 appears in 便宜 (cheap)."
+},
+{
+  "char": "步",
+  "pinyin": "bù",
+  "meaning": "step, stage",
+  "example": "一步一步来。",
+  "example_pinyin": "yí bù yí bù lái.",
+  "explanation": "Means 'Step by step.' 步 means 'step'."
+},
+{
+  "char": "准",
+  "pinyin": "zhǔn",
+  "meaning": "to allow; accurate, standard",
+  "example": "时间很准。",
+  "example_pinyin": "shí jiān hěn zhǔn.",
+  "explanation": "Means 'The time is accurate.' 准 means 'accurate/allow'."
+},
+{
+  "char": "早",
+  "pinyin": "zǎo",
+  "meaning": "morning, early",
+  "example": "我早上起床。",
+  "example_pinyin": "wǒ zǎo shang qǐ chuáng.",
+  "explanation": "Means 'I wake up in the morning.' 早 means 'early/morning'."
+},
+{
+  "char": "晚",
+  "pinyin": "wǎn",
+  "meaning": "evening, late",
+  "example": "晚上好。",
+  "example_pinyin": "wǎn shàng hǎo.",
+  "explanation": "Means 'Good evening.' 晚 means 'evening/late'."
+},
+{
+  "char": "张",
+  "pinyin": "zhāng",
+  "meaning": "measure word; surname",
+  "example": "一张纸。",
+  "example_pinyin": "yì zhāng zhǐ.",
+  "explanation": "Means 'a sheet of paper.' 张 is a measure word."
+},
+{
+  "char": "百",
+  "pinyin": "bǎi",
+  "meaning": "hundred",
+  "example": "一百元。",
+  "example_pinyin": "yì bǎi yuán.",
+  "explanation": "Means '100 yuan.' 百 means 'hundred'."
+},
+{
+  "char": "千",
+  "pinyin": "qiān",
+  "meaning": "thousand",
+  "example": "一千个人。",
+  "example_pinyin": "yì qiān ge rén.",
+  "explanation": "Means '1000 people.' 千 means 'thousand'."
+},
+{
+  "char": "因",
+  "pinyin": "yīn",
+  "meaning": "reason, cause",
+  "example": "因为下雨。",
+  "example_pinyin": "yīn wèi xià yǔ.",
+  "explanation": "Means 'because it rains.' 因 appears in 因为."
+},
+{
+  "char": "题",
+  "pinyin": "tí",
+  "meaning": "question, problem",
+  "example": "这个问题很难。",
+  "example_pinyin": "zhè ge wèn tí hěn nán.",
+  "explanation": "Means 'This question is difficult.' 题 means 'question'."
+},
+{
+  "char": "鱼",
+  "pinyin": "yú",
+  "meaning": "fish",
+  "example": "我吃鱼。",
+  "example_pinyin": "wǒ chī yú.",
+  "explanation": "Means 'I eat fish.' 鱼 means 'fish'."
+},
+{
+  "char": "它",
+  "pinyin": "tā",
+  "meaning": "it",
+  "example": "它很好。",
+  "example_pinyin": "tā hěn hǎo.",
+  "explanation": "Means 'It is good.' 它 refers to objects/animals."
+},
+{
+  "char": "跑",
+  "pinyin": "pǎo",
+  "meaning": "to run",
+  "example": "我跑步。",
+  "example_pinyin": "wǒ pǎo bù.",
+  "explanation": "Means 'I run.' 跑 means 'to run'."
+},
+{
+  "char": "走",
+  "pinyin": "zǒu",
+  "meaning": "to walk, to leave",
+  "example": "我们走吧。",
+  "example_pinyin": "wǒ men zǒu ba.",
+  "explanation": "Means 'Let's go.' 走 means 'walk/leave'."
+},
+{
+  "char": "快",
+  "pinyin": "kuài",
+  "meaning": "fast, quick",
+  "example": "他跑得很快。",
+  "example_pinyin": "tā pǎo de hěn kuài.",
+  "explanation": "Means 'He runs fast.' 快 means 'fast'."
+},
+{
+  "char": "慢",
+  "pinyin": "màn",
+  "meaning": "slow",
+  "example": "走慢一点。",
+  "example_pinyin": "zǒu màn yì diǎn.",
+  "explanation": "Means 'Walk a bit slower.' 慢 means 'slow'."
+},
+{
+  "char": "远",
+  "pinyin": "yuǎn",
+  "meaning": "far",
+  "example": "学校很远。",
+  "example_pinyin": "xué xiào hěn yuǎn.",
+  "explanation": "Means 'The school is far.' 远 means 'far'."
+},
+{
+  "char": "近",
+  "pinyin": "jìn",
+  "meaning": "near",
+  "example": "我家很近。",
+  "example_pinyin": "wǒ jiā hěn jìn.",
+  "explanation": "Means 'My home is near.' 近 means 'near'."
+},
+{
+  "char": "姓",
+  "pinyin": "xìng",
+  "meaning": "surname",
+  "example": "我姓王。",
+  "example_pinyin": "wǒ xìng wáng.",
+  "explanation": "Means 'My surname is Wang.' 姓 means 'surname'."
+},
+{
+  "char": "跳",
+  "pinyin": "tiào",
+  "meaning": "to jump",
+  "example": "孩子在跳。",
+  "example_pinyin": "hái zi zài tiào.",
+  "explanation": "Means 'The child is jumping.' 跳 means 'jump'."
+},
+{
+  "char": "睛",
+  "pinyin": "jīng",
+  "meaning": "eyeball (part of 眼睛)",
+  "example": "他的眼睛很大。",
+  "example_pinyin": "tā de yǎn jīng hěn dà.",
+  "explanation": "睛 appears in 眼睛 (eyes)."
+},
+{
+  "char": "气",
+  "pinyin": "qì",
+  "meaning": "air, steam",
+  "example": "水有气。",
+  "example_pinyin": "shuǐ yǒu qì.",
+  "explanation": "气 means 'air' or 'gas'."
+},
+{
+  "char": "课",
+  "pinyin": "kè",
+  "meaning": "class, lesson",
+  "example": "我上课。",
+  "example_pinyin": "wǒ shàng kè.",
+  "explanation": "Means 'I attend class.' 课 means 'lesson'."
+},
+{
+  "char": "完",
+  "pinyin": "wán",
+  "meaning": "to finish",
+  "example": "我做完作业。",
+  "example_pinyin": "wǒ zuò wán zuò yè.",
+  "explanation": "Means 'I finish homework.' 完 means 'finish'."
+},
+{
+  "char": "得",
+  "pinyin": "dé",
+  "meaning": "to obtain; particle",
+  "example": "我得到一个机会。",
+  "example_pinyin": "wǒ dé dào yí ge jī huì.",
+  "explanation": "得 can mean 'to get' and also works as a grammar particle."
+},
+{
+  "char": "泳",
+  "pinyin": "yǒng",
+  "meaning": "to swim (part of 游泳)",
+  "example": "我会游泳。",
+  "example_pinyin": "wǒ huì yóu yǒng.",
+  "explanation": "泳 appears in 游泳 (to swim)."
+},
+{
+  "char": "旁",
+  "pinyin": "páng",
+  "meaning": "side",
+  "example": "我在你旁边。",
+  "example_pinyin": "wǒ zài nǐ páng biān.",
+  "explanation": "Means 'I am beside you.' 旁 means 'side'."
+},
+{
+  "char": "路",
+  "pinyin": "lù",
+  "meaning": "road",
+  "example": "这条路很长。",
+  "example_pinyin": "zhè tiáo lù hěn cháng.",
+  "explanation": "路 means 'road'."
+},
+{
+  "char": "也",
+  "pinyin": "yě",
+  "meaning": "also, too",
+  "example": "我也去。",
+  "example_pinyin": "wǒ yě qù.",
+  "explanation": "Means 'I also go.' 也 means 'also'."
+},
+{
+  "char": "介",
+  "pinyin": "jiè",
+  "meaning": "introduce (part of 介绍)",
+  "example": "我介绍朋友。",
+  "example_pinyin": "wǒ jiè shào péng yǒu.",
+  "explanation": "介 appears in 介绍 (to introduce)."
+},
+{
+  "char": "两",
+  "pinyin": "liǎng",
+  "meaning": "two (used before measure words)",
+  "example": "两个苹果。",
+  "example_pinyin": "liǎng ge píng guǒ.",
+  "explanation": "Means 'two apples.' 两 is used before measure words."
+},
+{
+  "char": "备",
+  "pinyin": "bèi",
+  "meaning": "prepare (part of 准备)",
+  "example": "我准备好。",
+  "example_pinyin": "wǒ zhǔn bèi hǎo.",
+  "explanation": "备 appears in 准备 (to prepare)."
+},
+{
+  "char": "送",
+  "pinyin": "sòng",
+  "meaning": "to deliver, give",
+  "example": "我送你礼物。",
+  "example_pinyin": "wǒ sòng nǐ lǐ wù.",
+  "explanation": "Means 'I give you a gift.' 送 means 'to give/deliver'."
+},
+{
+  "char": "要",
+  "pinyin": "yào",
+  "meaning": "to want; will",
+  "example": "我要去。",
+  "example_pinyin": "wǒ yào qù.",
+  "explanation": "Means 'I want to go.' 要 expresses intention."
+},
+{
+  "char": "到",
+  "pinyin": "dào",
+  "meaning": "to arrive",
+  "example": "我到了。",
+  "example_pinyin": "wǒ dào le.",
+  "explanation": "Means 'I arrived.' 到 means 'arrive'."
+},
+{
+  "char": "进",
+  "pinyin": "jìn",
+  "meaning": "to enter",
+  "example": "请进。",
+  "example_pinyin": "qǐng jìn.",
+  "explanation": "Means 'Please come in.' 进 means 'enter'."
+},
+{
+  "char": "经",
+  "pinyin": "jīng",
+  "meaning": "to pass through; classic",
+  "example": "我已经到了。",
+  "example_pinyin": "wǒ yǐ jīng dào le.",
+  "explanation": "经 appears in 已经 (already)."
+},
+{
+  "char": "球",
+  "pinyin": "qiú",
+  "meaning": "ball",
+  "example": "我打球。",
+  "example_pinyin": "wǒ dǎ qiú.",
+  "explanation": "Means 'I play ball.' 球 means 'ball'."
+},
+{
+  "char": "可",
+  "pinyin": "kě",
+  "meaning": "can, may",
+  "example": "我可以去吗？",
+  "example_pinyin": "wǒ kě yǐ qù ma?",
+  "explanation": "Means 'Can I go?' 可 means 'can/may'."
+},
+{
+  "char": "常",
+  "pinyin": "cháng",
+  "meaning": "often, common",
+  "example": "我常去学校。",
+  "example_pinyin": "wǒ cháng qù xué xiào.",
+  "explanation": "Means 'I often go to school.' 常 means 'often'."
+},
+{
+  "char": "情",
+  "pinyin": "qíng",
+  "meaning": "feeling, emotion",
+  "example": "他的心情很好。",
+  "example_pinyin": "tā de xīn qíng hěn hǎo.",
+  "explanation": "Means 'His mood is good.' 情 means 'feeling'."
+},
+{
+  "char": "还",
+  "pinyin": "hái",
+  "meaning": "also, still",
+  "example": "我还在家。",
+  "example_pinyin": "wǒ hái zài jiā.",
+  "explanation": "Means 'I am still at home.' 还 means 'still/also'."
+},
+{
+  "char": "始",
+  "pinyin": "shǐ",
+  "meaning": "to begin (part of 开始)",
+  "example": "我们开始学习。",
+  "example_pinyin": "wǒ men kāi shǐ xué xí.",
+  "explanation": "始 appears in 开始 (to begin)."
+},
+{
+  "char": "唱",
+  "pinyin": "chàng",
+  "meaning": "to sing",
+  "example": "她唱歌。",
+  "example_pinyin": "tā chàng gē.",
+  "explanation": "Means 'She sings.' 唱 means 'to sing'."
+},
+{
+  "char": "卖",
+  "pinyin": "mài",
+  "meaning": "to sell",
+  "example": "他卖东西。",
+  "example_pinyin": "tā mài dōng xi.",
+  "explanation": "Means 'He sells things.' 卖 means 'to sell'."
+},
+{
+  "char": "告",
+  "pinyin": "gào",
+  "meaning": "to tell (part of 告诉)",
+  "example": "我告诉你。",
+  "example_pinyin": "wǒ gào sù nǐ.",
+  "explanation": "告 appears in 告诉 (to tell)."
+},
+{
+  "char": "篮",
+  "pinyin": "lán",
+  "meaning": "basket (part of 篮球)",
+  "example": "我打篮球。",
+  "example_pinyin": "wǒ dǎ lán qiú.",
+  "explanation": "篮 appears in 篮球 (basketball)."
+},
+{
+  "char": "贵",
+  "pinyin": "guì",
+  "meaning": "expensive",
+  "example": "这个很贵。",
+  "example_pinyin": "zhè ge hěn guì.",
+  "explanation": "Means 'This is expensive.' 贵 means 'expensive'."
+},
+{
+  "char": "件",
+  "pinyin": "jiàn",
+  "meaning": "measure word for items",
+  "example": "一件衣服。",
+  "example_pinyin": "yí jiàn yī fú.",
+  "explanation": "Means 'one piece of clothing.' 件 is a measure word."
+},
+{
+  "char": "体",
+  "pinyin": "tǐ",
+  "meaning": "body, system",
+  "example": "身体很好。",
+  "example_pinyin": "shēn tǐ hěn hǎo.",
+  "explanation": "Means 'The body is healthy.' 体 means 'body'."
+},
+{
+  "char": "男",
+  "pinyin": "nán",
+  "meaning": "male, man",
+  "example": "他是男人。",
+  "example_pinyin": "tā shì nán rén.",
+  "explanation": "Means 'He is a man.' 男 means 'male'."
+},
+{
+  "char": "员",
+  "pinyin": "yuán",
+  "meaning": "member, person",
+  "example": "他是工作人员。",
+  "example_pinyin": "tā shì gōng zuò rén yuán.",
+  "explanation": "Means 'He is a staff member.' 员 means 'member'."
+},
+{
+  "char": "给",
+  "pinyin": "gěi",
+  "meaning": "to give",
+  "example": "我给你书。",
+  "example_pinyin": "wǒ gěi nǐ shū.",
+  "explanation": "Means 'I give you a book.' 给 means 'to give'."
+},
+{
+  "char": "门",
+  "pinyin": "mén",
+  "meaning": "door, gate",
+  "example": "门开了。",
+  "example_pinyin": "mén kāi le.",
+  "explanation": "Means 'The door is open.' 门 means 'door'."
+},
+{
+  "char": "从",
+  "pinyin": "cóng",
+  "meaning": "from",
+  "example": "我从家来。",
+  "example_pinyin": "wǒ cóng jiā lái.",
+  "explanation": "Means 'I come from home.' 从 means 'from'."
+},
+{
+  "char": "房",
+  "pinyin": "fáng",
+  "meaning": "house, room",
+  "example": "这个房很大。",
+  "example_pinyin": "zhè ge fáng hěn dà.",
+  "explanation": "Means 'This house is big.' 房 means 'room/house'."
+},
+{
+  "char": "孩",
+  "pinyin": "hái",
+  "meaning": "child (part of 孩子)",
+  "example": "孩子在玩。",
+  "example_pinyin": "hái zi zài wán.",
+  "explanation": "孩 appears in 孩子 (child)."
+},
+{
+  "char": "让",
+  "pinyin": "ràng",
+  "meaning": "to let, allow",
+  "example": "让我来。",
+  "example_pinyin": "ràng wǒ lái.",
+  "explanation": "Means 'Let me do it.' 让 means 'to let'."
+},
+{
+  "char": "但",
+  "pinyin": "dàn",
+  "meaning": "but",
+  "example": "我想去，但很忙。",
+  "example_pinyin": "wǒ xiǎng qù, dàn hěn máng.",
+  "explanation": "Means 'I want to go, but I am busy.' 但 means 'but'."
+},
+{
+  "char": "向",
+  "pinyin": "xiàng",
+  "meaning": "toward, to",
+  "example": "我向他走。",
+  "example_pinyin": "wǒ xiàng tā zǒu.",
+  "explanation": "Means 'I walk toward him.' 向 means 'toward'."
+},
+{
+  "char": "边",
+  "pinyin": "biān",
+  "meaning": "side, edge",
+  "example": "我在你旁边。",
+  "example_pinyin": "wǒ zài nǐ páng biān.",
+  "explanation": "Means 'I am beside you.' 边 means 'side'."
+},
+{
+  "char": "号",
+  "pinyin": "hào",
+  "meaning": "number, day (date)",
+  "example": "今天是十号。",
+  "example_pinyin": "jīn tiān shì shí hào.",
+  "explanation": "Means 'Today is the 10th.' 号 means 'number/date'."
+},
+{
+  "char": "试",
+  "pinyin": "shì",
+  "meaning": "to try, test",
+  "example": "我试一下。",
+  "example_pinyin": "wǒ shì yí xià.",
+  "explanation": "Means 'I try it.' 试 means 'to try'."
+},
+{
+  "char": "息",
+  "pinyin": "xī",
+  "meaning": "rest; news (part of 休息, 信息)",
+  "example": "我休息。",
+  "example_pinyin": "wǒ xiū xī.",
+  "explanation": "息 appears in 休息 (rest)."
+},
+{
+  "char": "游",
+  "pinyin": "yóu",
+  "meaning": "to swim, travel (part of 游泳)",
+  "example": "我去旅游。",
+  "example_pinyin": "wǒ qù lǚ yóu.",
+  "explanation": "游 appears in 游泳 (swim) and 旅游 (travel)."
+},
+{
+  "char": "室",
+  "pinyin": "shì",
+  "meaning": "room",
+  "example": "教室很大。",
+  "example_pinyin": "jiào shì hěn dà.",
+  "explanation": "室 means 'room' (classroom, etc.)."
+},
+{
+  "char": "休",
+  "pinyin": "xiū",
+  "meaning": "to rest",
+  "example": "我休息一下。",
+  "example_pinyin": "wǒ xiū xī yí xià.",
+  "explanation": "Means 'I rest for a while.' 休 means 'rest'."
+},
+{
+  "char": "希",
+  "pinyin": "xī",
+  "meaning": "hope (part of 希望)",
+  "example": "我希望你来。",
+  "example_pinyin": "wǒ xī wàng nǐ lái.",
+  "explanation": "希 appears in 希望 (to hope)."
+},
+{
+  "char": "适",
+  "pinyin": "shì",
+  "meaning": "proper, suitable",
+  "example": "这个很适合你。",
+  "example_pinyin": "zhè ge hěn shì hé nǐ.",
+  "explanation": "适 appears in 适合 (suitable)."
+},
+{
+  "char": "奶",
+  "pinyin": "nǎi",
+  "meaning": "milk",
+  "example": "我喝牛奶。",
+  "example_pinyin": "wǒ hē niú nǎi.",
+  "explanation": "Means 'I drink milk.' 奶 means 'milk'."
+},
+{
+  "char": "瓜",
+  "pinyin": "guā",
+  "meaning": "melon",
+  "example": "我吃西瓜。",
+  "example_pinyin": "wǒ chī xī guā.",
+  "explanation": "Means 'I eat watermelon.' 瓜 means 'melon'."
+},
+{
+  "char": "迎",
+  "pinyin": "yíng",
+  "meaning": "to welcome",
+  "example": "欢迎你。",
+  "example_pinyin": "huān yíng nǐ.",
+  "explanation": "Means 'Welcome.' 迎 appears in 欢迎."
+},
+{
+  "char": "累",
+  "pinyin": "lèi",
+  "meaning": "tired",
+  "example": "我很累。",
+  "example_pinyin": "wǒ hěn lèi.",
+  "explanation": "Means 'I am tired.' 累 means 'tired'."
+},
+{
+  "char": "为",
+  "pinyin": "wèi",
+  "meaning": "for, to",
+  "example": "这是为你做的。",
+  "example_pinyin": "zhè shì wèi nǐ zuò de.",
+  "explanation": "Means 'This is made for you.' 为 means 'for'."
+},
+{
+  "char": "以",
+  "pinyin": "yǐ",
+  "meaning": "by means of; from",
+  "example": "可以用这个。",
+  "example_pinyin": "kě yǐ yòng zhè ge.",
+  "explanation": "以 is used in expressions like 可以."
+},
+{
+  "char": "非",
+  "pinyin": "fēi",
+  "meaning": "not, wrong",
+  "example": "这不是非。",
+  "example_pinyin": "zhè bú shì fēi.",
+  "explanation": "非 means 'not/wrong'."
+},
+{
+  "char": "场",
+  "pinyin": "chǎng",
+  "meaning": "measure word (events, games)",
+  "example": "一场电影。",
+  "example_pinyin": "yì chǎng diàn yǐng.",
+  "explanation": "Means 'a movie.' 场 is used for events."
+},
+{
+  "char": "比",
+  "pinyin": "bǐ",
+  "meaning": "than (comparison)",
+  "example": "他比我高。",
+  "example_pinyin": "tā bǐ wǒ gāo.",
+  "explanation": "Means 'He is taller than me.' 比 is used for comparison."
+},
+{
+  "char": "所",
+  "pinyin": "suǒ",
+  "meaning": "place; used in formal expressions",
+  "example": "这个地方很好。",
+  "example_pinyin": "zhè ge dì fāng hěn hǎo.",
+  "explanation": "所 relates to place or formal usage."
+},
+{
+  "char": "务",
+  "pinyin": "wù",
+  "meaning": "affair, business (part of 工作/服务)",
+  "example": "我在工作。",
+  "example_pinyin": "wǒ zài gōng zuò.",
+  "explanation": "务 appears in 工作 (work) or 服务 (service)."
+},
+{
+  "char": "告",
+  "pinyin": "gào",
+  "meaning": "to tell (part of 告诉)",
+  "example": "我告诉你。",
+  "example_pinyin": "wǒ gào sù nǐ.",
+  "explanation": "告 appears in 告诉 (to tell)."
+},
+{
+  "char": "踢",
+  "pinyin": "tī",
+  "meaning": "to kick",
+  "example": "我踢足球。",
+  "example_pinyin": "wǒ tī zú qiú.",
+  "explanation": "Means 'I play (kick) football.' 踢 means 'to kick'."
+},
+{
+  "char": "每",
+  "pinyin": "měi",
+  "meaning": "every, each",
+  "example": "我每天学习。",
+  "example_pinyin": "wǒ měi tiān xué xí.",
+  "explanation": "Means 'I study every day.' 每 means 'every'."
+},
+{
+  "char": "考",
+  "pinyin": "kǎo",
+  "meaning": "to take an exam",
+  "example": "我明天考试。",
+  "example_pinyin": "wǒ míng tiān kǎo shì.",
+  "explanation": "Means 'I have an exam tomorrow.' 考 means 'to test/exam'."
+},
+{
+  "char": "斤",
+  "pinyin": "jīn",
+  "meaning": "500 grams (measure)",
+  "example": "一斤苹果。",
+  "example_pinyin": "yì jīn píng guǒ.",
+  "explanation": "Means '500g of apples.' 斤 is a weight unit."
+},
+{
+  "char": "足",
+  "pinyin": "zú",
+  "meaning": "foot",
+  "example": "足球很好玩。",
+  "example_pinyin": "zú qiú hěn hǎo wán.",
+  "explanation": "Means 'Football is fun.' 足 relates to 'foot'."
+},
+{
+  "char": "绍",
+  "pinyin": "shào",
+  "meaning": "to introduce (part of 介绍)",
+  "example": "我介绍朋友。",
+  "example_pinyin": "wǒ jiè shào péng yǒu.",
+  "explanation": "绍 appears in 介绍 (to introduce)."
+},
+{
+  "char": "丈",
+  "pinyin": "zhàng",
+  "meaning": "husband (part of 丈夫)",
+  "example": "他是丈夫。",
+  "example_pinyin": "tā shì zhàng fu.",
+  "explanation": "丈 appears in 丈夫 (husband)."
+}
+  ],
+  "hsk3":[
+    {
+  "char": "心",
+  "pinyin": "xīn",
+  "meaning": "heart",
+  "example": "我很开心。",
+  "example_pinyin": "wǒ hěn kāi xīn.",
+  "explanation": "Means 'I am happy.' 心 means 'heart'."
+},
+{
+  "char": "云",
+  "pinyin": "yún",
+  "meaning": "cloud",
+  "example": "天上有云。",
+  "example_pinyin": "tiān shàng yǒu yún.",
+  "explanation": "Means 'There are clouds in the sky.' 云 means 'cloud'."
+},
+{
+  "char": "秋",
+  "pinyin": "qiū",
+  "meaning": "autumn, fall",
+  "example": "秋天很凉。",
+  "example_pinyin": "qiū tiān hěn liáng.",
+  "explanation": "Means 'Autumn is cool.' 秋 means 'autumn'."
+},
+{
+  "char": "冬",
+  "pinyin": "dōng",
+  "meaning": "winter",
+  "example": "冬天很冷。",
+  "example_pinyin": "dōng tiān hěn lěng.",
+  "explanation": "Means 'Winter is cold.' 冬 means 'winter'."
+},
+{
+  "char": "鼻",
+  "pinyin": "bí",
+  "meaning": "nose",
+  "example": "我的鼻子很小。",
+  "example_pinyin": "wǒ de bí zi hěn xiǎo.",
+  "explanation": "Means 'My nose is small.' 鼻 means 'nose'."
+},
+{
+  "char": "耳",
+  "pinyin": "ěr",
+  "meaning": "ear",
+  "example": "我用耳听。",
+  "example_pinyin": "wǒ yòng ěr tīng.",
+  "explanation": "Means 'I listen with my ears.' 耳 means 'ear'."
+},
+{
+  "char": "阳",
+  "pinyin": "yáng",
+  "meaning": "sun (part of 太阳)",
+  "example": "太阳很大。",
+  "example_pinyin": "tài yáng hěn dà.",
+  "explanation": "阳 appears in 太阳 (sun)."
+},
+{
+  "char": "风",
+  "pinyin": "fēng",
+  "meaning": "wind",
+  "example": "今天有风。",
+  "example_pinyin": "jīn tiān yǒu fēng.",
+  "explanation": "Means 'It is windy today.' 风 means 'wind'."
+},
+{
+  "char": "地",
+  "pinyin": "dì",
+  "meaning": "earth, ground",
+  "example": "地很大。",
+  "example_pinyin": "dì hěn dà.",
+  "explanation": "地 means 'earth/ground'."
+},
+{
+  "char": "草",
+  "pinyin": "cǎo",
+  "meaning": "grass",
+  "example": "草是绿的。",
+  "example_pinyin": "cǎo shì lǜ de.",
+  "explanation": "Means 'Grass is green.' 草 means 'grass'."
+},
+{
+  "char": "花",
+  "pinyin": "huā",
+  "meaning": "flower",
+  "example": "我喜欢花。",
+  "example_pinyin": "wǒ xǐ huān huā.",
+  "explanation": "Means 'I like flowers.' 花 means 'flower'."
+},
+{
+  "char": "南",
+  "pinyin": "nán",
+  "meaning": "south",
+  "example": "我们向南走。",
+  "example_pinyin": "wǒ men xiàng nán zǒu.",
+  "explanation": "Means 'We walk south.' 南 means 'south'."
+},
+{
+  "char": "糖",
+  "pinyin": "táng",
+  "meaning": "sugar",
+  "example": "我喜欢吃糖。",
+  "example_pinyin": "wǒ xǐ huān chī táng.",
+  "explanation": "Means 'I like eating sugar.' 糖 means 'sugar'."
+},
+{
+  "char": "甜",
+  "pinyin": "tián",
+  "meaning": "sweet",
+  "example": "这个很甜。",
+  "example_pinyin": "zhè ge hěn tián.",
+  "explanation": "Means 'This is sweet.' 甜 means 'sweet'."
+},
+{
+  "char": "河",
+  "pinyin": "hé",
+  "meaning": "river",
+  "example": "河很长。",
+  "example_pinyin": "hé hěn cháng.",
+  "explanation": "Means 'The river is long.' 河 means 'river'."
+},
+{
+  "char": "碗",
+  "pinyin": "wǎn",
+  "meaning": "bowl",
+  "example": "一碗饭。",
+  "example_pinyin": "yì wǎn fàn.",
+  "explanation": "Means 'a bowl of rice.' 碗 means 'bowl'."
+},
+{
+  "char": "盘",
+  "pinyin": "pán",
+  "meaning": "plate",
+  "example": "一盘菜。",
+  "example_pinyin": "yì pán cài.",
+  "explanation": "Means 'a plate of food.' 盘 means 'plate'."
+},
+{
+  "char": "筷",
+  "pinyin": "kuài",
+  "meaning": "chopsticks (part of 筷子)",
+  "example": "我用筷子吃饭。",
+  "example_pinyin": "wǒ yòng kuài zi chī fàn.",
+  "explanation": "筷 appears in 筷子 (chopsticks)."
+},
+{
+  "char": "矮",
+  "pinyin": "ǎi",
+  "meaning": "short (height)",
+  "example": "他很矮。",
+  "example_pinyin": "tā hěn ǎi.",
+  "explanation": "Means 'He is short.' 矮 means 'short (person)'."
+},
+{
+  "char": "胖",
+  "pinyin": "pàng",
+  "meaning": "fat",
+  "example": "他有点胖。",
+  "example_pinyin": "tā yǒu diǎn pàng.",
+  "explanation": "Means 'He is a bit fat.' 胖 means 'fat'."
+},
+{
+  "char": "瘦",
+  "pinyin": "shòu",
+  "meaning": "thin",
+  "example": "她很瘦。",
+  "example_pinyin": "tā hěn shòu.",
+  "explanation": "Means 'She is thin.' 瘦 means 'thin'."
+},
+{
+  "char": "短",
+  "pinyin": "duǎn",
+  "meaning": "short (length)",
+  "example": "这条路很短。",
+  "example_pinyin": "zhè tiáo lù hěn duǎn.",
+  "explanation": "Means 'This road is short.' 短 means 'short'."
+},
+{
+  "char": "腿",
+  "pinyin": "tuǐ",
+  "meaning": "leg",
+  "example": "他的腿很长。",
+  "example_pinyin": "tā de tuǐ hěn cháng.",
+  "explanation": "Means 'His legs are long.' 腿 means 'leg'."
+},
+{
+  "char": "脚",
+  "pinyin": "jiǎo",
+  "meaning": "foot",
+  "example": "我的脚很累。",
+  "example_pinyin": "wǒ de jiǎo hěn lèi.",
+  "explanation": "Means 'My feet are tired.' 脚 means 'foot'."
+},
+{
+  "char": "哭",
+  "pinyin": "kū",
+  "meaning": "to cry",
+  "example": "孩子在哭。",
+  "example_pinyin": "hái zi zài kū.",
+  "explanation": "Means 'The child is crying.' 哭 means 'to cry'."
+},
+{
+  "char": "笔",
+  "pinyin": "bǐ",
+  "meaning": "pen, pencil",
+  "example": "我用笔写字。",
+  "example_pinyin": "wǒ yòng bǐ xiě zì.",
+  "explanation": "Means 'I write with a pen.' 笔 means 'pen'."
+},
+{
+  "char": "马",
+  "pinyin": "mǎ",
+  "meaning": "horse",
+  "example": "马在跑。",
+  "example_pinyin": "mǎ zài pǎo.",
+  "explanation": "Means 'The horse is running.' 马 means 'horse'."
+},
+{
+  "char": "信",
+  "pinyin": "xìn",
+  "meaning": "to believe; letter",
+  "example": "我相信你。",
+  "example_pinyin": "wǒ xiāng xìn nǐ.",
+  "explanation": "Means 'I believe you.' 信 means 'believe'."
+},
+{
+  "char": "黄",
+  "pinyin": "huáng",
+  "meaning": "yellow",
+  "example": "这个是黄色的。",
+  "example_pinyin": "zhè ge shì huáng sè de.",
+  "explanation": "Means 'This is yellow.' 黄 means 'yellow'."
+},
+{
+  "char": "蓝",
+  "pinyin": "lán",
+  "meaning": "blue",
+  "example": "天空是蓝的。",
+  "example_pinyin": "tiān kōng shì lán de.",
+  "explanation": "Means 'The sky is blue.' 蓝 means 'blue'."
+},
+{
+  "char": "绿",
+  "pinyin": "lǜ",
+  "meaning": "green",
+  "example": "草是绿的。",
+  "example_pinyin": "cǎo shì lǜ de.",
+  "explanation": "Means 'Grass is green.' 绿 means 'green'."
+},
+{
+  "char": "节",
+  "pinyin": "jié",
+  "meaning": "festival, holiday",
+  "example": "今天是节日。",
+  "example_pinyin": "jīn tiān shì jié rì.",
+  "explanation": "Means 'Today is a festival.' 节 means 'festival'."
+},
+{
+  "char": "叔",
+  "pinyin": "shū",
+  "meaning": "uncle",
+  "example": "这是我叔叔。",
+  "example_pinyin": "zhè shì wǒ shū shu.",
+  "explanation": "Means 'This is my uncle.' 叔 means 'uncle'."
+},
+{
+  "char": "姨",
+  "pinyin": "yí",
+  "meaning": "aunt (mother's sister)",
+  "example": "我姨在家。",
+  "example_pinyin": "wǒ yí zài jiā.",
+  "explanation": "姨 specifically means 'mother's sister'."
+},
+{
+  "char": "爷",
+  "pinyin": "yé",
+  "meaning": "grandfather (father's side)",
+  "example": "我爷爷很好。",
+  "example_pinyin": "wǒ yé ye hěn hǎo.",
+  "explanation": "爷 appears in 爷爷 (grandfather)."
+},
+{
+  "char": "市",
+  "pinyin": "shì",
+  "meaning": "city, market",
+  "example": "这个城市很大。",
+  "example_pinyin": "zhè ge chéng shì hěn dà.",
+  "explanation": "市 means 'city' or 'market'."
+},
+{
+  "char": "健",
+  "pinyin": "jiàn",
+  "meaning": "healthy (part of 健康)",
+  "example": "我很健康。",
+  "example_pinyin": "wǒ hěn jiàn kāng.",
+  "explanation": "健 appears in 健康 (healthy)."
+},
+{
+  "char": "康",
+  "pinyin": "kāng",
+  "meaning": "health (part of 健康)",
+  "example": "身体健康。",
+  "example_pinyin": "shēn tǐ jiàn kāng.",
+  "explanation": "康 appears in 健康 (health)."
+},
+{
+  "char": "糕",
+  "pinyin": "gāo",
+  "meaning": "cake",
+  "example": "我吃蛋糕。",
+  "example_pinyin": "wǒ chī dàn gāo.",
+  "explanation": "糕 means 'cake'."
+},
+{
+  "char": "网",
+  "pinyin": "wǎng",
+  "meaning": "net, internet",
+  "example": "我上网。",
+  "example_pinyin": "wǒ shàng wǎng.",
+  "explanation": "Means 'I go online.' 网 means 'net/internet'."
+},
+{
+  "char": "邮",
+  "pinyin": "yóu",
+  "meaning": "mail, post",
+  "example": "我发邮件。",
+  "example_pinyin": "wǒ fā yóu jiàn.",
+  "explanation": "邮 relates to mail/post."
+},
+{
+  "char": "主",
+  "pinyin": "zhǔ",
+  "meaning": "main, primary",
+  "example": "这是主要问题。",
+  "example_pinyin": "zhè shì zhǔ yào wèn tí.",
+  "explanation": "主 means 'main'."
+},
+{
+  "char": "满",
+  "pinyin": "mǎn",
+  "meaning": "full",
+  "example": "水满了。",
+  "example_pinyin": "shuǐ mǎn le.",
+  "explanation": "Means 'The water is full.' 满 means 'full'."
+},
+{
+  "char": "饿",
+  "pinyin": "è",
+  "meaning": "hungry",
+  "example": "我很饿。",
+  "example_pinyin": "wǒ hěn è.",
+  "explanation": "Means 'I am hungry.' 饿 means 'hungry'."
+},
+{
+  "char": "干",
+  "pinyin": "gān",
+  "meaning": "dry",
+  "example": "衣服干了。",
+  "example_pinyin": "yī fú gān le.",
+  "explanation": "Means 'The clothes are dry.' 干 means 'dry'."
+},
+{
+  "char": "复",
+  "pinyin": "fù",
+  "meaning": "to restore, repeat",
+  "example": "恢复健康。",
+  "example_pinyin": "huī fù jiàn kāng.",
+  "explanation": "复 appears in 恢复 (recover)."
+},
+{
+  "char": "又",
+  "pinyin": "yòu",
+  "meaning": "again",
+  "example": "他又来了。",
+  "example_pinyin": "tā yòu lái le.",
+  "explanation": "Means 'He came again.' 又 means 'again'."
+},
+{
+  "char": "银",
+  "pinyin": "yín",
+  "meaning": "silver",
+  "example": "这是银的。",
+  "example_pinyin": "zhè shì yín de.",
+  "explanation": "银 means 'silver'."
+},
+{
+  "char": "角",
+  "pinyin": "jiǎo",
+  "meaning": "unit of money (0.1 yuan)",
+  "example": "五角钱。",
+  "example_pinyin": "wǔ jiǎo qián.",
+  "explanation": "角 is a money unit."
+},
+{
+  "char": "婚",
+  "pinyin": "hūn",
+  "meaning": "to marry (part of 结婚)",
+  "example": "他们结婚了。",
+  "example_pinyin": "tā men jié hūn le.",
+  "explanation": "婚 appears in 结婚 (marry)."
+},
+{
+  "char": "香",
+  "pinyin": "xiāng",
+  "meaning": "fragrant, tasty",
+  "example": "这个很香。",
+  "example_pinyin": "zhè ge hěn xiāng.",
+  "explanation": "Means 'This smells good.' 香 means 'fragrant'."
+},
+{
+  "char": "物",
+  "pinyin": "wù",
+  "meaning": "thing, object",
+  "example": "这个物很好。",
+  "example_pinyin": "zhè ge wù hěn hǎo.",
+  "explanation": "物 means 'thing/object'."
+},
+{
+  "char": "满",
+  "pinyin": "mǎn",
+  "meaning": "full (of)",
+  "example": "杯子满了。",
+  "example_pinyin": "bēi zi mǎn le.",
+  "explanation": "Means 'The cup is full.' 满 means 'full'."
+},
+{
+  "char": "衬",
+  "pinyin": "chèn",
+  "meaning": "lining (part of 衬衫)",
+  "example": "我穿衬衫。",
+  "example_pinyin": "wǒ chuān chèn shān.",
+  "explanation": "衬 appears in 衬衫 (shirt)."
+},
+{
+  "char": "衫",
+  "pinyin": "shān",
+  "meaning": "upper garment (shirt)",
+  "example": "这件衫很好看。",
+  "example_pinyin": "zhè jiàn shān hěn hǎo kàn.",
+  "explanation": "衫 means 'shirt'."
+},
+{
+  "char": "礼",
+  "pinyin": "lǐ",
+  "meaning": "gift, ceremony",
+  "example": "这是礼物。",
+  "example_pinyin": "zhè shì lǐ wù.",
+  "explanation": "礼 means 'gift/ceremony'."
+},
+{
+  "char": "裤",
+  "pinyin": "kù",
+  "meaning": "trousers, pants",
+  "example": "我买裤子。",
+  "example_pinyin": "wǒ mǎi kù zi.",
+  "explanation": "裤 means 'pants'."
+},
+{
+  "char": "澡",
+  "pinyin": "zǎo",
+  "meaning": "bathe (part of 洗澡)",
+  "example": "我洗澡。",
+  "example_pinyin": "wǒ xǐ zǎo.",
+  "explanation": "澡 appears in 洗澡 (to bathe)."
+},
+{
+  "char": "惯",
+  "pinyin": "guàn",
+  "meaning": "to be used to (part of 习惯)",
+  "example": "我习惯早起。",
+  "example_pinyin": "wǒ xí guàn zǎo qǐ.",
+  "explanation": "惯 appears in 习惯 (to be used to)."
+},
+{
+  "char": "词",
+  "pinyin": "cí",
+  "meaning": "word",
+  "example": "这个词很难。",
+  "example_pinyin": "zhè ge cí hěn nán.",
+  "explanation": "词 means 'word'."
+},
+{
+  "char": "啤",
+  "pinyin": "pí",
+  "meaning": "beer (part of 啤酒)",
+  "example": "我喝啤酒。",
+  "example_pinyin": "wǒ hē pí jiǔ.",
+  "explanation": "啤 appears in 啤酒 (beer)."
+},
+{
+  "char": "画",
+  "pinyin": "huà",
+  "meaning": "to draw; picture",
+  "example": "我画画。",
+  "example_pinyin": "wǒ huà huà.",
+  "explanation": "Means 'I draw.' 画 means 'draw/picture'."
+},
+{
+  "char": "旧",
+  "pinyin": "jiù",
+  "meaning": "old (not new)",
+  "example": "这个很旧。",
+  "example_pinyin": "zhè ge hěn jiù.",
+  "explanation": "Means 'This is old.' 旧 means 'old'."
+},
+{
+  "char": "选",
+  "pinyin": "xuǎn",
+  "meaning": "to choose",
+  "example": "我选这个。",
+  "example_pinyin": "wǒ xuǎn zhè ge.",
+  "explanation": "Means 'I choose this.' 选 means 'choose'."
+},
+{
+  "char": "静",
+  "pinyin": "jìng",
+  "meaning": "quiet",
+  "example": "这里很安静。",
+  "example_pinyin": "zhè lǐ hěn ān jìng.",
+  "explanation": "静 means 'quiet'."
+},
+{
+  "char": "句",
+  "pinyin": "jù",
+  "meaning": "sentence",
+  "example": "这个句很长。",
+  "example_pinyin": "zhè ge jù hěn cháng.",
+  "explanation": "句 means 'sentence'."
+},
+{
+  "char": "鞋",
+  "pinyin": "xié",
+  "meaning": "shoe",
+  "example": "我买鞋。",
+  "example_pinyin": "wǒ mǎi xié.",
+  "explanation": "Means 'I buy shoes.' 鞋 means 'shoe'."
+},
+{
+  "char": "感",
+  "pinyin": "gǎn",
+  "meaning": "to feel (part of 感觉)",
+  "example": "我感觉很好。",
+  "example_pinyin": "wǒ gǎn jué hěn hǎo.",
+  "explanation": "感 appears in 感觉 (to feel)."
+},
+{
+  "char": "双",
+  "pinyin": "shuāng",
+  "meaning": "pair, double",
+  "example": "一双鞋。",
+  "example_pinyin": "yì shuāng xié.",
+  "explanation": "Means 'a pair of shoes.' 双 means 'pair'."
+},
+{
+  "char": "单",
+  "pinyin": "dān",
+  "meaning": "single",
+  "example": "单人房。",
+  "example_pinyin": "dān rén fáng.",
+  "explanation": "Means 'single room.' 单 means 'single'."
+},
+{
+  "char": "难",
+  "pinyin": "nán",
+  "meaning": "difficult",
+  "example": "这个很难。",
+  "example_pinyin": "zhè ge hěn nán.",
+  "explanation": "Means 'This is difficult.' 难 means 'difficult'."
+},
+{
+  "char": "易",
+  "pinyin": "yì",
+  "meaning": "easy",
+  "example": "这个很容易。",
+  "example_pinyin": "zhè ge hěn róng yì.",
+  "explanation": "易 means 'easy'."
+},
+{
+  "char": "简",
+  "pinyin": "jiǎn",
+  "meaning": "simple",
+  "example": "这个很简单。",
+  "example_pinyin": "zhè ge hěn jiǎn dān.",
+  "explanation": "简 appears in 简单 (simple)."
+},
+{
+  "char": "声",
+  "pinyin": "shēng",
+  "meaning": "sound, voice",
+  "example": "声音很大。",
+  "example_pinyin": "shēng yīn hěn dà.",
+  "explanation": "声 means 'sound/voice'."
+},
+{
+  "char": "照",
+  "pinyin": "zhào",
+  "meaning": "to take a photo",
+  "example": "我拍照。",
+  "example_pinyin": "wǒ pāi zhào.",
+  "explanation": "照 appears in 拍照 (take photo)."
+},
+{
+  "char": "镜",
+  "pinyin": "jìng",
+  "meaning": "mirror",
+  "example": "镜子很干净。",
+  "example_pinyin": "jìng zi hěn gān jìng.",
+  "explanation": "镜 means 'mirror'."
+},
+{
+  "char": "算",
+  "pinyin": "suàn",
+  "meaning": "to calculate",
+  "example": "我算一下。",
+  "example_pinyin": "wǒ suàn yí xià.",
+  "explanation": "Means 'Let me calculate.' 算 means 'calculate'."
+},
+{
+  "char": "演",
+  "pinyin": "yǎn",
+  "meaning": "to perform",
+  "example": "他们表演节目。",
+  "example_pinyin": "tā men biǎo yǎn jié mù.",
+  "explanation": "演 means 'to perform'."
+},
+{
+  "char": "讲",
+  "pinyin": "jiǎng",
+  "meaning": "to speak, say",
+  "example": "他说中文。",
+  "example_pinyin": "tā jiǎng zhōng wén.",
+  "explanation": "讲 means 'to speak'."
+},
+{
+  "char": "择",
+  "pinyin": "zé",
+  "meaning": "to choose (formal)",
+  "example": "我选择这个。",
+  "example_pinyin": "wǒ xuǎn zé zhè ge.",
+  "explanation": "择 appears in 选择 (choose)."
+},
+{
+  "char": "头",
+  "pinyin": "tóu",
+  "meaning": "head",
+  "example": "我的头很疼。",
+  "example_pinyin": "wǒ de tóu hěn téng.",
+  "explanation": "Means 'My head hurts.' 头 means 'head'."
+},
+{
+  "char": "然",
+  "pinyin": "rán",
+  "meaning": "but; so (part of 然而, 当然)",
+  "example": "然而他没来。",
+  "example_pinyin": "rán ér tā méi lái.",
+  "explanation": "然 appears in 然而 (however)."
+},
+{
+  "char": "己",
+  "pinyin": "jǐ",
+  "meaning": "oneself",
+  "example": "我自己来。",
+  "example_pinyin": "wǒ zì jǐ lái.",
+  "explanation": "己 appears in 自己 (oneself)."
+},
+{
+  "char": "吧",
+  "pinyin": "ba",
+  "meaning": "modal particle (suggestion)",
+  "example": "我们走吧。",
+  "example_pinyin": "wǒ men zǒu ba.",
+  "explanation": "吧 indicates suggestion."
+},
+{
+  "char": "被",
+  "pinyin": "bèi",
+  "meaning": "by (passive)",
+  "example": "他被老师批评。",
+  "example_pinyin": "tā bèi lǎo shī pī píng.",
+  "explanation": "被 is used in passive sentences."
+},
+{
+  "char": "当",
+  "pinyin": "dāng",
+  "meaning": "when; to be",
+  "example": "当我来时，他在家。",
+  "example_pinyin": "dāng wǒ lái shí, tā zài jiā.",
+  "explanation": "当 means 'when'."
+},
+{
+  "char": "图",
+  "pinyin": "tú",
+  "meaning": "picture, map",
+  "example": "这张图很好。",
+  "example_pinyin": "zhè zhāng tú hěn hǎo.",
+  "explanation": "图 means 'picture'."
+},
+{
+  "char": "轻",
+  "pinyin": "qīng",
+  "meaning": "light (weight)",
+  "example": "这个很轻。",
+  "example_pinyin": "zhè ge hěn qīng.",
+  "explanation": "Means 'This is light.' 轻 means 'light'."
+},
+{
+  "char": "重",
+  "pinyin": "zhòng",
+  "meaning": "heavy; serious",
+  "example": "这个很重。",
+  "example_pinyin": "zhè ge hěn zhòng.",
+  "explanation": "Means 'This is heavy.' 重 means 'heavy'."
+},
+{
+  "char": "树",
+  "pinyin": "shù",
+  "meaning": "tree",
+  "example": "树很高。",
+  "example_pinyin": "shù hěn gāo.",
+  "explanation": "Means 'The tree is tall.' 树 means 'tree'."
+},
+{
+  "char": "灯",
+  "pinyin": "dēng",
+  "meaning": "lamp, light",
+  "example": "请开灯。",
+  "example_pinyin": "qǐng kāi dēng.",
+  "explanation": "Means 'Please turn on the light.' 灯 means 'lamp'."
+},
+{
+  "char": "提",
+  "pinyin": "tí",
+  "meaning": "to carry, lift",
+  "example": "我提包。",
+  "example_pinyin": "wǒ tí bāo.",
+  "explanation": "Means 'I carry a bag.' 提 means 'carry'."
+},
+{
+  "char": "成",
+  "pinyin": "chéng",
+  "meaning": "to become",
+  "example": "他成为老师。",
+  "example_pinyin": "tā chéng wéi lǎo shī.",
+  "explanation": "成 appears in 成为 (to become)."
+},
+{
+  "char": "查",
+  "pinyin": "chá",
+  "meaning": "to check",
+  "example": "我查一下。",
+  "example_pinyin": "wǒ chá yí xià.",
+  "explanation": "Means 'Let me check.' 查 means 'check'."
+},
+{
+  "char": "世",
+  "pinyin": "shì",
+  "meaning": "world, generation",
+  "example": "世界很大。",
+  "example_pinyin": "shì jiè hěn dà.",
+  "explanation": "世 appears in 世界 (world)."
+},
+{
+  "char": "界",
+  "pinyin": "jiè",
+  "meaning": "boundary, world",
+  "example": "世界很大。",
+  "example_pinyin": "shì jiè hěn dà.",
+  "explanation": "界 appears in 世界 (world)."
+},
+{
+  "char": "周",
+  "pinyin": "zhōu",
+  "meaning": "week; circle",
+  "example": "一周有七天。",
+  "example_pinyin": "yì zhōu yǒu qī tiān.",
+  "explanation": "Means 'A week has seven days.' 周 means 'week'."
+},
+{
+  "char": "条",
+  "pinyin": "tiáo",
+  "meaning": "measure word (long things)",
+  "example": "一条路。",
+  "example_pinyin": "yì tiáo lù.",
+  "explanation": "条 is used for long objects (road, river, etc.)."
+},
+{
+  "char": "如",
+  "pinyin": "rú",
+  "meaning": "like, as",
+  "example": "如你所说。",
+  "example_pinyin": "rú nǐ suǒ shuō.",
+  "explanation": "Means 'as you said.' 如 means 'like/as'."
+},
+{
+  "char": "变",
+  "pinyin": "biàn",
+  "meaning": "to become, change",
+  "example": "天气变冷了。",
+  "example_pinyin": "tiān qì biàn lěng le.",
+  "explanation": "Means 'The weather became cold.' 变 means 'change'."
+},
+{
+  "char": "根",
+  "pinyin": "gēn",
+  "meaning": "root; measure word",
+  "example": "一根树。",
+  "example_pinyin": "yì gēn shù.",
+  "explanation": "根 means 'root' or measure word for long objects."
+},
+{
+  "char": "冰",
+  "pinyin": "bīng",
+  "meaning": "ice",
+  "example": "水变成冰。",
+  "example_pinyin": "shuǐ biàn chéng bīng.",
+  "explanation": "Means 'Water becomes ice.' 冰 means 'ice'."
+},
+{
+  "char": "终",
+  "pinyin": "zhōng",
+  "meaning": "end",
+  "example": "终于完成。",
+  "example_pinyin": "zhōng yú wán chéng.",
+  "explanation": "终 appears in 终于 (finally)."
+},
+{
+  "char": "万",
+  "pinyin": "wàn",
+  "meaning": "ten thousand",
+  "example": "一万个人。",
+  "example_pinyin": "yí wàn ge rén.",
+  "explanation": "万 means '10,000'."
+},
+{
+  "char": "需",
+  "pinyin": "xū",
+  "meaning": "need",
+  "example": "我需要水。",
+  "example_pinyin": "wǒ xū yào shuǐ.",
+  "explanation": "需 appears in 需要 (to need)."
+},
+{
+  "char": "低",
+  "pinyin": "dī",
+  "meaning": "low",
+  "example": "这个很低。",
+  "example_pinyin": "zhè ge hěn dī.",
+  "explanation": "Means 'This is low.' 低 means 'low'."
+},
+{
+  "char": "直",
+  "pinyin": "zhí",
+  "meaning": "straight",
+  "example": "这条路很直。",
+  "example_pinyin": "zhè tiáo lù hěn zhí.",
+  "explanation": "Means 'This road is straight.' 直 means 'straight'."
+},
+{
+  "char": "包",
+  "pinyin": "bāo",
+  "meaning": "bag, package",
+  "example": "我有一个包。",
+  "example_pinyin": "wǒ yǒu yí ge bāo.",
+  "explanation": "Means 'I have a bag.' 包 means 'bag'."
+},
+{
+  "char": "扫",
+  "pinyin": "sǎo",
+  "meaning": "to sweep",
+  "example": "我扫地。",
+  "example_pinyin": "wǒ sǎo dì.",
+  "explanation": "Means 'I sweep the floor.' 扫 means 'sweep'."
+},
+{
+  "char": "伞",
+  "pinyin": "sǎn",
+  "meaning": "umbrella",
+  "example": "我带伞。",
+  "example_pinyin": "wǒ dài sǎn.",
+  "explanation": "Means 'I bring an umbrella.' 伞 means 'umbrella'."
+},
+{
+  "char": "净",
+  "pinyin": "jìng",
+  "meaning": "clean",
+  "example": "房间很干净。",
+  "example_pinyin": "fáng jiān hěn gān jìng.",
+  "explanation": "Means 'The room is clean.' 净 means 'clean'."
+},
+{
+  "char": "牙",
+  "pinyin": "yá",
+  "meaning": "tooth",
+  "example": "我刷牙。",
+  "example_pinyin": "wǒ shuā yá.",
+  "explanation": "Means 'I brush my teeth.' 牙 means 'tooth'."
+},
+{
+  "char": "鸟",
+  "pinyin": "niǎo",
+  "meaning": "bird",
+  "example": "鸟在飞。",
+  "example_pinyin": "niǎo zài fēi.",
+  "explanation": "Means 'The bird is flying.' 鸟 means 'bird'."
+},
+{
+  "char": "目",
+  "pinyin": "mù",
+  "meaning": "eye; item",
+  "example": "这个项目很好。",
+  "example_pinyin": "zhè ge xiàng mù hěn hǎo.",
+  "explanation": "目 means 'eye' and appears in 项目 (project)."
+},
+{
+  "char": "加",
+  "pinyin": "jiā",
+  "meaning": "to add",
+  "example": "请加一点糖。",
+  "example_pinyin": "qǐng jiā yì diǎn táng.",
+  "explanation": "Means 'Please add some sugar.' 加 means 'add'."
+},
+{
+  "char": "汁",
+  "pinyin": "zhī",
+  "meaning": "juice",
+  "example": "我喝果汁。",
+  "example_pinyin": "wǒ hē guǒ zhī.",
+  "explanation": "Means 'I drink juice.' 汁 means 'juice'."
+},
+{
+  "char": "怕",
+  "pinyin": "pà",
+  "meaning": "to fear",
+  "example": "我怕狗。",
+  "example_pinyin": "wǒ pà gǒu.",
+  "explanation": "Means 'I am afraid of dogs.' 怕 means 'fear'."
+},
+{
+  "char": "奇",
+  "pinyin": "qí",
+  "meaning": "strange",
+  "example": "这个很奇怪。",
+  "example_pinyin": "zhè ge hěn qí guài.",
+  "explanation": "奇 appears in 奇怪 (strange)."
+},
+{
+  "char": "怪",
+  "pinyin": "guài",
+  "meaning": "strange; monster",
+  "example": "这个很奇怪。",
+  "example_pinyin": "zhè ge hěn qí guài.",
+  "explanation": "怪 means 'strange'."
+},
+{
+  "char": "迟",
+  "pinyin": "chí",
+  "meaning": "late",
+  "example": "他来迟了。",
+  "example_pinyin": "tā lái chí le.",
+  "explanation": "Means 'He came late.' 迟 means 'late'."
+},
+{
+  "char": "坏",
+  "pinyin": "huài",
+  "meaning": "bad",
+  "example": "这个坏了。",
+  "example_pinyin": "zhè ge huài le.",
+  "explanation": "Means 'This is broken.' 坏 means 'bad'."
+},
+{
+  "char": "烧",
+  "pinyin": "shāo",
+  "meaning": "to burn; fever",
+  "example": "他发烧了。",
+  "example_pinyin": "tā fā shāo le.",
+  "explanation": "烧 appears in 发烧 (fever)."
+},
+{
+  "char": "楼",
+  "pinyin": "lóu",
+  "meaning": "building",
+  "example": "这栋楼很高。",
+  "example_pinyin": "zhè dòng lóu hěn gāo.",
+  "explanation": "Means 'This building is tall.' 楼 means 'building'."
+},
+{
+  "char": "酒",
+  "pinyin": "jiǔ",
+  "meaning": "alcohol, wine",
+  "example": "我不喝酒。",
+  "example_pinyin": "wǒ bù hē jiǔ.",
+  "explanation": "Means 'I don't drink alcohol.' 酒 means 'alcohol'."
+},
+{
+  "char": "急",
+  "pinyin": "jí",
+  "meaning": "urgent; anxious",
+  "example": "不要着急。",
+  "example_pinyin": "bú yào zháo jí.",
+  "explanation": "Means 'Don't worry.' 急 means 'urgent'."
+},
+{
+  "char": "借",
+  "pinyin": "jiè",
+  "meaning": "to borrow, lend",
+  "example": "我借书。",
+  "example_pinyin": "wǒ jiè shū.",
+  "explanation": "Means 'I borrow a book.' 借 means 'borrow/lend'."
+},
+{
+  "char": "帽",
+  "pinyin": "mào",
+  "meaning": "hat, cap",
+  "example": "我戴帽子。",
+  "example_pinyin": "wǒ dài mào zi.",
+  "explanation": "Means 'I wear a hat.' 帽 means 'hat'."
+},
+{
+  "char": "爬",
+  "pinyin": "pá",
+  "meaning": "to climb, crawl",
+  "example": "我爬山。",
+  "example_pinyin": "wǒ pá shān.",
+  "explanation": "Means 'I climb a mountain.' 爬 means 'climb'."
+},
+{
+  "char": "响",
+  "pinyin": "xiǎng",
+  "meaning": "loud; to make a sound",
+  "example": "声音很响。",
+  "example_pinyin": "shēng yīn hěn xiǎng.",
+  "explanation": "Means 'The sound is loud.' 响 means 'sound/loud'."
+},
+{
+  "char": "季",
+  "pinyin": "jì",
+  "meaning": "season",
+  "example": "现在是夏季。",
+  "example_pinyin": "xiàn zài shì xià jì.",
+  "explanation": "Means 'Now it is summer.' 季 means 'season'."
+},
+{
+  "char": "数",
+  "pinyin": "shù",
+  "meaning": "number; math",
+  "example": "我学数学。",
+  "example_pinyin": "wǒ xué shù xué.",
+  "explanation": "数 relates to numbers and math."
+},
+{
+  "char": "闻",
+  "pinyin": "wén",
+  "meaning": "to hear; to smell",
+  "example": "我闻到香味。",
+  "example_pinyin": "wǒ wén dào xiāng wèi.",
+  "explanation": "Means 'I smell fragrance.' 闻 means 'hear/smell'."
+},
+{
+  "char": "古",
+  "pinyin": "gǔ",
+  "meaning": "ancient, old",
+  "example": "这是古书。",
+  "example_pinyin": "zhè shì gǔ shū.",
+  "explanation": "Means 'This is an ancient book.' 古 means 'old/ancient'."
+},
+{
+  "char": "历",
+  "pinyin": "lì",
+  "meaning": "experience; history",
+  "example": "我有很多经历。",
+  "example_pinyin": "wǒ yǒu hěn duō jīng lì.",
+  "explanation": "历 appears in 经历 (experience)."
+},
+{
+  "char": "愿",
+  "pinyin": "yuàn",
+  "meaning": "to wish, hope",
+  "example": "我愿意帮助你。",
+  "example_pinyin": "wǒ yuàn yì bāng zhù nǐ.",
+  "explanation": "Means 'I am willing to help you.' 愿 means 'wish'."
+},
+{
+  "char": "境",
+  "pinyin": "jìng",
+  "meaning": "situation, environment",
+  "example": "环境很好。",
+  "example_pinyin": "huán jìng hěn hǎo.",
+  "explanation": "境 appears in 环境 (environment)."
+},
+{
+  "char": "超",
+  "pinyin": "chāo",
+  "meaning": "to surpass; exceed",
+  "example": "他超过我。",
+  "example_pinyin": "tā chāo guò wǒ.",
+  "explanation": "Means 'He surpasses me.' 超 means 'exceed'."
+},
+{
+  "char": "裙",
+  "pinyin": "qún",
+  "meaning": "skirt",
+  "example": "她穿裙子。",
+  "example_pinyin": "tā chuān qún zi.",
+  "explanation": "Means 'She wears a skirt.' 裙 means 'skirt'."
+},
+{
+  "char": "总",
+  "pinyin": "zǒng",
+  "meaning": "overall, always",
+  "example": "他总是很忙。",
+  "example_pinyin": "tā zǒng shì hěn máng.",
+  "explanation": "Means 'He is always busy.' 总 means 'overall/always'."
+},
+{
+  "char": "安",
+  "pinyin": "ān",
+  "meaning": "safe, calm",
+  "example": "这里很安全。",
+  "example_pinyin": "zhè lǐ hěn ān quán.",
+  "explanation": "Means 'It is safe here.' 安 means 'safe'."
+},
+{
+  "char": "级",
+  "pinyin": "jí",
+  "meaning": "level, grade",
+  "example": "我是三级学生。",
+  "example_pinyin": "wǒ shì sān jí xué shēng.",
+  "explanation": "Means 'I am a level 3 student.' 级 means 'level'."
+},
+{
+  "char": "像",
+  "pinyin": "xiàng",
+  "meaning": "to resemble; image",
+  "example": "你像他。",
+  "example_pinyin": "nǐ xiàng tā.",
+  "explanation": "Means 'You look like him.' 像 means 'resemble'."
+},
+{
+  "char": "戏",
+  "pinyin": "xì",
+  "meaning": "drama, play",
+  "example": "我看戏。",
+  "example_pinyin": "wǒ kàn xì.",
+  "explanation": "Means 'I watch a play.' 戏 means 'drama'."
+},
+{
+  "char": "鲜",
+  "pinyin": "xiān",
+  "meaning": "fresh",
+  "example": "这个很新鲜。",
+  "example_pinyin": "zhè ge hěn xīn xiān.",
+  "explanation": "Means 'This is fresh.' 鲜 means 'fresh'."
+},
+{
+  "char": "敢",
+  "pinyin": "gǎn",
+  "meaning": "to dare",
+  "example": "我不敢说。",
+  "example_pinyin": "wǒ bù gǎn shuō.",
+  "explanation": "Means 'I don't dare to speak.' 敢 means 'dare'."
+},
+{
+  "char": "铁",
+  "pinyin": "tiě",
+  "meaning": "iron",
+  "example": "这是铁的。",
+  "example_pinyin": "zhè shì tiě de.",
+  "explanation": "铁 means 'iron'."
+},
+{
+  "char": "搬",
+  "pinyin": "bān",
+  "meaning": "to move (objects)",
+  "example": "我搬东西。",
+  "example_pinyin": "wǒ bān dōng xi.",
+  "explanation": "Means 'I move things.' 搬 means 'move'."
+},
+{
+  "char": "趣",
+  "pinyin": "qù",
+  "meaning": "interest, fun",
+  "example": "这个很有趣。",
+  "example_pinyin": "zhè ge hěn yǒu qù.",
+  "explanation": "Means 'This is interesting.' 趣 means 'interest'."
+},
+{
+  "char": "文",
+  "pinyin": "wén",
+  "meaning": "language, writing",
+  "example": "我学中文。",
+  "example_pinyin": "wǒ xué zhōng wén.",
+  "explanation": "文 means 'language/writing'."
+},
+{
+  "char": "山",
+  "pinyin": "shān",
+  "meaning": "mountain",
+  "example": "山很高。",
+  "example_pinyin": "shān hěn gāo.",
+  "explanation": "Means 'The mountain is tall.' 山 means 'mountain'."
+},
+{
+  "char": "力",
+  "pinyin": "lì",
+  "meaning": "strength, power",
+  "example": "他很有力气。",
+  "example_pinyin": "tā hěn yǒu lì qi.",
+  "explanation": "力 means 'strength'."
+},
+{
+  "char": "理",
+  "pinyin": "lǐ",
+  "meaning": "reason; to manage",
+  "example": "这个很有道理。",
+  "example_pinyin": "zhè ge hěn yǒu dào lǐ.",
+  "explanation": "理 means 'reason'."
+},
+{
+  "char": "用",
+  "pinyin": "yòng",
+  "meaning": "to use",
+  "example": "我用手机。",
+  "example_pinyin": "wǒ yòng shǒu jī.",
+  "explanation": "Means 'I use a phone.' 用 means 'use'."
+},
+{
+  "char": "法",
+  "pinyin": "fǎ",
+  "meaning": "method, law",
+  "example": "这个方法很好。",
+  "example_pinyin": "zhè ge fāng fǎ hěn hǎo.",
+  "explanation": "法 means 'method/law'."
+},
+{
+  "char": "定",
+  "pinyin": "dìng",
+  "meaning": "fixed; to decide",
+  "example": "我们决定时间。",
+  "example_pinyin": "wǒ men jué dìng shí jiān.",
+  "explanation": "Means 'We decide the time.' 定 relates to 'decide/fix'."
+},
+{
+  "char": "方",
+  "pinyin": "fāng",
+  "meaning": "direction; square",
+  "example": "向这个方向走。",
+  "example_pinyin": "xiàng zhè ge fāng xiàng zǒu.",
+  "explanation": "方 means 'direction'."
+},
+{
+  "char": "忘",
+  "pinyin": "wàng",
+  "meaning": "to forget",
+  "example": "我忘了。",
+  "example_pinyin": "wǒ wàng le.",
+  "explanation": "Means 'I forgot.' 忘 means 'forget'."
+},
+{
+  "char": "换",
+  "pinyin": "huàn",
+  "meaning": "to change, exchange",
+  "example": "我换衣服。",
+  "example_pinyin": "wǒ huàn yī fú.",
+  "explanation": "Means 'I change clothes.' 换 means 'change'."
+},
+{
+  "char": "其",
+  "pinyin": "qí",
+  "meaning": "that; such",
+  "example": "其他人来了。",
+  "example_pinyin": "qí tā rén lái le.",
+  "explanation": "其 appears in 其他 (other)."
+},
+{
+  "char": "努",
+  "pinyin": "nǔ",
+  "meaning": "to make effort (part of 努力)",
+  "example": "我努力学习。",
+  "example_pinyin": "wǒ nǔ lì xué xí.",
+  "explanation": "努 appears in 努力 (to work hard)."
+},
+{
+  "char": "突",
+  "pinyin": "tū",
+  "meaning": "sudden (part of 突然)",
+  "example": "他突然来了。",
+  "example_pinyin": "tā tū rán lái le.",
+  "explanation": "突 appears in 突然 (suddenly)."
+},
+{
+  "char": "举",
+  "pinyin": "jǔ",
+  "meaning": "to raise",
+  "example": "举手回答。",
+  "example_pinyin": "jǔ shǒu huí dá.",
+  "explanation": "Means 'Raise your hand to answer.' 举 means 'raise'."
+},
+{
+  "char": "必",
+  "pinyin": "bì",
+  "meaning": "must; certainly",
+  "example": "你必须来。",
+  "example_pinyin": "nǐ bì xū lái.",
+  "explanation": "必 appears in 必须 (must)."
+},
+{
+  "char": "实",
+  "pinyin": "shí",
+  "meaning": "real, true",
+  "example": "这是真的。",
+  "example_pinyin": "zhè shì zhēn de.",
+  "explanation": "实 relates to 'real/true'."
+},
+{
+  "char": "位",
+  "pinyin": "wèi",
+  "meaning": "measure word for people",
+  "example": "一位老师。",
+  "example_pinyin": "yí wèi lǎo shī.",
+  "explanation": "位 is a polite measure word for people."
+},
+{
+  "char": "只",
+  "pinyin": "zhǐ",
+  "meaning": "only, just",
+  "example": "我只要这个。",
+  "example_pinyin": "wǒ zhǐ yào zhè ge.",
+  "explanation": "Means 'I only want this.' 只 means 'only'."
+},
+{
+  "char": "护",
+  "pinyin": "hù",
+  "meaning": "to protect",
+  "example": "保护环境。",
+  "example_pinyin": "bǎo hù huán jìng.",
+  "explanation": "护 appears in 保护 (protect)."
+},
+{
+  "char": "通",
+  "pinyin": "tōng",
+  "meaning": "to lead to; pass through",
+  "example": "这条路通学校。",
+  "example_pinyin": "zhè tiáo lù tōng xué xiào.",
+  "explanation": "Means 'This road leads to the school.' 通 means 'connect/pass'."
+},
+{
+  "char": "种",
+  "pinyin": "zhǒng",
+  "meaning": "type, kind",
+  "example": "这种很好。",
+  "example_pinyin": "zhè zhǒng hěn hǎo.",
+  "explanation": "Means 'This kind is good.' 种 means 'type'."
+},
+{
+  "char": "城",
+  "pinyin": "chéng",
+  "meaning": "city",
+  "example": "这个城市很大。",
+  "example_pinyin": "zhè ge chéng shì hěn dà.",
+  "explanation": "城 means 'city'."
+},
+{
+  "char": "音",
+  "pinyin": "yīn",
+  "meaning": "sound",
+  "example": "这个声音很好。",
+  "example_pinyin": "zhè ge shēng yīn hěn hǎo.",
+  "explanation": "音 means 'sound'."
+},
+{
+  "char": "像",
+  "pinyin": "xiàng",
+  "meaning": "image, photo; resemble",
+  "example": "这张像很好看。",
+  "example_pinyin": "zhè zhāng xiàng hěn hǎo kàn.",
+  "explanation": "像 can mean 'image/photo'."
+},
+{
+  "char": "口",
+  "pinyin": "kǒu",
+  "meaning": "mouth",
+  "example": "张开口。",
+  "example_pinyin": "zhāng kāi kǒu.",
+  "explanation": "口 means 'mouth'."
+},
+{
+  "char": "成",
+  "pinyin": "chéng",
+  "meaning": "to form; become",
+  "example": "变成老师。",
+  "example_pinyin": "biàn chéng lǎo shī.",
+  "explanation": "成 means 'become/form'."
+},
+{
+  "char": "放",
+  "pinyin": "fàng",
+  "meaning": "to put; to place",
+  "example": "把书放这里。",
+  "example_pinyin": "bǎ shū fàng zhè lǐ.",
+  "explanation": "Means 'Put the book here.' 放 means 'place'."
+},
+{
+  "char": "业",
+  "pinyin": "yè",
+  "meaning": "business; profession",
+  "example": "他做生意。",
+  "example_pinyin": "tā zuò shēng yì.",
+  "explanation": "业 appears in words like 作业, 职业."
+},
+{
+  "char": "特",
+  "pinyin": "tè",
+  "meaning": "special",
+  "example": "这个很特别。",
+  "example_pinyin": "zhè ge hěn tè bié.",
+  "explanation": "特 means 'special'."
+},
+{
+  "char": "半",
+  "pinyin": "bàn",
+  "meaning": "half",
+  "example": "半小时。",
+  "example_pinyin": "bàn xiǎo shí.",
+  "explanation": "Means 'half an hour.' 半 means 'half'."
+},
+{
+  "char": "空",
+  "pinyin": "kōng",
+  "meaning": "sky; empty",
+  "example": "天空很蓝。",
+  "example_pinyin": "tiān kōng hěn lán.",
+  "explanation": "空 means 'sky/empty'."
+},
+{
+  "char": "脸",
+  "pinyin": "liǎn",
+  "meaning": "face",
+  "example": "他的脸很白。",
+  "example_pinyin": "tā de liǎn hěn bái.",
+  "explanation": "脸 means 'face'."
+},
+{
+  "char": "议",
+  "pinyin": "yì",
+  "meaning": "to discuss (part of 讨论, 建议)",
+  "example": "我们讨论问题。",
+  "example_pinyin": "wǒ men tǎo lùn wèn tí.",
+  "explanation": "议 appears in 讨论/建议."
+},
+{
+  "char": "容",
+  "pinyin": "róng",
+  "meaning": "to contain; appearance",
+  "example": "容易学。",
+  "example_pinyin": "róng yì xué.",
+  "explanation": "容 appears in 容易 (easy)."
+},
+{
+  "char": "接",
+  "pinyin": "jiē",
+  "meaning": "to receive; pick up",
+  "example": "我接电话。",
+  "example_pinyin": "wǒ jiē diàn huà.",
+  "explanation": "Means 'I answer the phone.' 接 means 'receive/pick up'."
+},
+{
+  "char": "决",
+  "pinyin": "jué",
+  "meaning": "to decide (part of 决定)",
+  "example": "我决定去。",
+  "example_pinyin": "wǒ jué dìng qù.",
+  "explanation": "决 appears in 决定 (decide)."
+},
+{
+  "char": "参",
+  "pinyin": "cān",
+  "meaning": "to take part",
+  "example": "我参加活动。",
+  "example_pinyin": "wǒ cān jiā huó dòng.",
+  "explanation": "参 appears in 参加 (participate)."
+},
+{
+  "char": "极",
+  "pinyin": "jí",
+  "meaning": "extreme; utmost",
+  "example": "很好极了。",
+  "example_pinyin": "hěn hǎo jí le.",
+  "explanation": "极 means 'extreme'."
+},
+{
+  "char": "拿",
+  "pinyin": "ná",
+  "meaning": "to take, hold",
+  "example": "我拿书。",
+  "example_pinyin": "wǒ ná shū.",
+  "explanation": "Means 'I take a book.' 拿 means 'take'."
+},
+{
+  "char": "更",
+  "pinyin": "gèng",
+  "meaning": "more",
+  "example": "他更高。",
+  "example_pinyin": "tā gèng gāo.",
+  "explanation": "Means 'He is taller.' 更 means 'more'."
+},
+{
+  "char": "刻",
+  "pinyin": "kè",
+  "meaning": "quarter (time)",
+  "example": "一刻钟。",
+  "example_pinyin": "yí kè zhōng.",
+  "explanation": "Means '15 minutes.' 刻 means 'quarter'."
+},
+{
+  "char": "典",
+  "pinyin": "diǎn",
+  "meaning": "ceremony; standard",
+  "example": "开学典礼。",
+  "example_pinyin": "kāi xué diǎn lǐ.",
+  "explanation": "典 appears in 典礼 (ceremony)."
+},
+{
+  "char": "刚",
+  "pinyin": "gāng",
+  "meaning": "just now",
+  "example": "我刚到。",
+  "example_pinyin": "wǒ gāng dào.",
+  "explanation": "Means 'I just arrived.' 刚 means 'just now'."
+},
+{
+  "char": "须",
+  "pinyin": "xū",
+  "meaning": "must (formal)",
+  "example": "你必须学习。",
+  "example_pinyin": "nǐ bì xū xué xí.",
+  "explanation": "须 appears in 必须 (must)."
+},
+{
+  "char": "担",
+  "pinyin": "dān",
+  "meaning": "to undertake (part of 担心)",
+  "example": "不要担心。",
+  "example_pinyin": "bú yào dān xīn.",
+  "explanation": "担 appears in 担心 (worry)."
+},
+{
+  "char": "史",
+  "pinyin": "shǐ",
+  "meaning": "history",
+  "example": "我学历史。",
+  "example_pinyin": "wǒ xué lì shǐ.",
+  "explanation": "史 means 'history'."
+},
+{
+  "char": "末",
+  "pinyin": "mò",
+  "meaning": "end",
+  "example": "周末休息。",
+  "example_pinyin": "zhōu mò xiū xī.",
+  "explanation": "末 means 'end'."
+},
+{
+  "char": "普",
+  "pinyin": "pǔ",
+  "meaning": "general, common",
+  "example": "普通话。",
+  "example_pinyin": "pǔ tōng huà.",
+  "explanation": "普 appears in 普通 (common)."
+},
+{
+  "char": "虽",
+  "pinyin": "suī",
+  "meaning": "although",
+  "example": "虽然很忙，但我去。",
+  "example_pinyin": "suī rán hěn máng, dàn wǒ qù.",
+  "explanation": "虽 appears in 虽然 (although)."
+},
+{
+  "char": "层",
+  "pinyin": "céng",
+  "meaning": "layer; floor",
+  "example": "三层楼。",
+  "example_pinyin": "sān céng lóu.",
+  "explanation": "Means '3 floors.' 层 means 'layer/floor'."
+},
+{
+  "char": "般",
+  "pinyin": "bān",
+  "meaning": "kind, type",
+  "example": "一般人。",
+  "example_pinyin": "yì bān rén.",
+  "explanation": "般 appears in 一般 (general)."
+},
+{
+  "char": "啊",
+  "pinyin": "a",
+  "meaning": "oh; wow (particle)",
+  "example": "啊！太好了！",
+  "example_pinyin": "a! tài hǎo le!",
+  "explanation": "啊 expresses emotion like surprise."
+},
+{
+  "char": "夏",
+  "pinyin": "xià",
+  "meaning": "summer",
+  "example": "夏天很热。",
+  "example_pinyin": "xià tiān hěn rè.",
+  "explanation": "Means 'Summer is hot.' 夏 means 'summer'."
+},
+{
+  "char": "遇",
+  "pinyin": "yù",
+  "meaning": "to meet; encounter",
+  "example": "我遇见他。",
+  "example_pinyin": "wǒ yù jiàn tā.",
+  "explanation": "遇 means 'meet/encounter'."
+},
+{
+  "char": "居",
+  "pinyin": "jū",
+  "meaning": "to reside; house",
+  "example": "我住在这里。",
+  "example_pinyin": "wǒ zhù zài zhè lǐ.",
+  "explanation": "居 relates to living/residing."
+},
+{
+  "char": "检",
+  "pinyin": "jiǎn",
+  "meaning": "to check, inspect",
+  "example": "检查一下。",
+  "example_pinyin": "jiǎn chá yí xià.",
+  "explanation": "检 appears in 检查 (check)."
+},
+{
+  "char": "发",
+  "pinyin": "fà",
+  "meaning": "hair",
+  "example": "他的头发很长。",
+  "example_pinyin": "tā de tóu fà hěn cháng.",
+  "explanation": "发 means 'hair'."
+},
+{
+  "char": "临",
+  "pinyin": "lín",
+  "meaning": "near; to approach",
+  "example": "临近考试。",
+  "example_pinyin": "lín jìn kǎo shì.",
+  "explanation": "临 means 'approach/near'."
+},
+{
+  "char": "梯",
+  "pinyin": "tī",
+  "meaning": "ladder; stairs",
+  "example": "走楼梯。",
+  "example_pinyin": "zǒu lóu tī.",
+  "explanation": "梯 means 'stairs/ladder'."
+},
+{
+  "char": "或",
+  "pinyin": "huò",
+  "meaning": "or",
+  "example": "你喝茶或咖啡？",
+  "example_pinyin": "nǐ hē chá huò kā fēi?",
+  "explanation": "或 means 'or'."
+},
+{
+  "char": "箱",
+  "pinyin": "xiāng",
+  "meaning": "box; suitcase",
+  "example": "行李箱很重。",
+  "example_pinyin": "xíng lǐ xiāng hěn zhòng.",
+  "explanation": "箱 means 'box/suitcase'."
+},
+{
+  "char": "练",
+  "pinyin": "liàn",
+  "meaning": "to practice",
+  "example": "我练习汉语。",
+  "example_pinyin": "wǒ liàn xí hàn yǔ.",
+  "explanation": "练 appears in 练习 (practice)."
+},
+{
+  "char": "较",
+  "pinyin": "jiào",
+  "meaning": "compare; relatively",
+  "example": "这个较好。",
+  "example_pinyin": "zhè ge jiào hǎo.",
+  "explanation": "较 means 'compare/relatively'."
+},
+{
+  "char": "舒",
+  "pinyin": "shū",
+  "meaning": "comfortable; relax",
+  "example": "很舒服。",
+  "example_pinyin": "hěn shū fu.",
+  "explanation": "舒 appears in 舒服 (comfortable)."
+},
+{
+  "char": "绩",
+  "pinyin": "jì",
+  "meaning": "achievement; result",
+  "example": "学习成绩很好。",
+  "example_pinyin": "xué xí chéng jì hěn hǎo.",
+  "explanation": "绩 appears in 成绩 (result)."
+},
+{
+  "char": "段",
+  "pinyin": "duàn",
+  "meaning": "section; part",
+  "example": "一段时间。",
+  "example_pinyin": "yí duàn shí jiān.",
+  "explanation": "段 means 'section/period'."
+},
+{
+  "char": "祝",
+  "pinyin": "zhù",
+  "meaning": "to wish",
+  "example": "祝你成功。",
+  "example_pinyin": "zhù nǐ chéng gōng.",
+  "explanation": "Means 'Wish you success.' 祝 means 'wish'."
+},
+{
+  "char": "才",
+  "pinyin": "cái",
+  "meaning": "just now; only then",
+  "example": "我刚才来。",
+  "example_pinyin": "wǒ gāng cái lái.",
+  "explanation": "才 means 'just now/only then'."
+},
+{
+  "char": "办",
+  "pinyin": "bàn",
+  "meaning": "to do; to handle",
+  "example": "我办事情。",
+  "example_pinyin": "wǒ bàn shì qing.",
+  "explanation": "办 means 'handle/do'."
+},
+{
+  "char": "清",
+  "pinyin": "qīng",
+  "meaning": "clear; pure",
+  "example": "水很清。",
+  "example_pinyin": "shuǐ hěn qīng.",
+  "explanation": "清 means 'clear'."
+},
+{
+  "char": "带",
+  "pinyin": "dài",
+  "meaning": "to bring; to carry",
+  "example": "我带书。",
+  "example_pinyin": "wǒ dài shū.",
+  "explanation": "带 means 'bring'."
+},
+{
+  "char": "该",
+  "pinyin": "gāi",
+  "meaning": "ought to; should",
+  "example": "你该学习。",
+  "example_pinyin": "nǐ gāi xué xí.",
+  "explanation": "该 means 'should'."
+},
+{
+  "char": "园",
+  "pinyin": "yuán",
+  "meaning": "garden; park",
+  "example": "我去公园。",
+  "example_pinyin": "wǒ qù gōng yuán.",
+  "explanation": "园 means 'garden/park'."
+},
+{
+  "char": "使",
+  "pinyin": "shǐ",
+  "meaning": "to make; to cause",
+  "example": "这使我开心。",
+  "example_pinyin": "zhè shǐ wǒ kāi xīn.",
+  "explanation": "使 means 'make/cause'."
+},
+{
+  "char": "板",
+  "pinyin": "bǎn",
+  "meaning": "board",
+  "example": "黑板很大。",
+  "example_pinyin": "hēi bǎn hěn dà.",
+  "explanation": "板 means 'board'."
+},
+{
+  "char": "者",
+  "pinyin": "zhě",
+  "meaning": "person (suffix: -er, -ist)",
+  "example": "读者很多。",
+  "example_pinyin": "dú zhě hěn duō.",
+  "explanation": "者 means 'person who...'."
+},
+{
+  "char": "片",
+  "pinyin": "piàn",
+  "meaning": "slice; thin piece",
+  "example": "一片面包。",
+  "example_pinyin": "yí piàn miàn bāo.",
+  "explanation": "片 means 'slice'."
+},
+{
+  "char": "调",
+  "pinyin": "diào",
+  "meaning": "to investigate; adjust",
+  "example": "调查问题。",
+  "example_pinyin": "diào chá wèn tí.",
+  "explanation": "调 appears in 调查 (investigate)."
+},
+{
+  "char": "冒",
+  "pinyin": "mào",
+  "meaning": "to risk",
+  "example": "冒险很危险。",
+  "example_pinyin": "mào xiǎn hěn wēi xiǎn.",
+  "explanation": "冒 means 'risk'."
+},
+{
+  "char": "附",
+  "pinyin": "fù",
+  "meaning": "to attach; add",
+  "example": "附加说明。",
+  "example_pinyin": "fù jiā shuō míng.",
+  "explanation": "附 means 'attach/add'."
+},
+{
+  "char": "朵",
+  "pinyin": "duǒ",
+  "meaning": "measure word (flowers, clouds)",
+  "example": "一朵花。",
+  "example_pinyin": "yì duǒ huā.",
+  "explanation": "朵 is used for flowers."
+},
+{
+  "char": "刮",
+  "pinyin": "guā",
+  "meaning": "to scrape; to blow (wind)",
+  "example": "外面刮风。",
+  "example_pinyin": "wài miàn guā fēng.",
+  "explanation": "Means 'The wind is blowing.' 刮 means 'scrape/blow'."
+},
+{
+  "char": "熊",
+  "pinyin": "xióng",
+  "meaning": "bear (animal)",
+  "example": "熊很大。",
+  "example_pinyin": "xióng hěn dà.",
+  "explanation": "熊 means 'bear'."
+},
+{
+  "char": "铅",
+  "pinyin": "qiān",
+  "meaning": "lead (metal)",
+  "example": "铅很重。",
+  "example_pinyin": "qiān hěn zhòng.",
+  "explanation": "铅 means 'lead (Pb)'."
+},
+{
+  "char": "注",
+  "pinyin": "zhù",
+  "meaning": "to concentrate; to pour",
+  "example": "注意听。",
+  "example_pinyin": "zhù yì tīng.",
+  "explanation": "注 appears in 注意 (pay attention)."
+},
+{
+  "char": "锻",
+  "pinyin": "duàn",
+  "meaning": "to forge; to exercise",
+  "example": "锻炼身体。",
+  "example_pinyin": "duàn liàn shēn tǐ.",
+  "explanation": "锻 appears in 锻炼 (exercise)."
+},
+{
+  "char": "厨",
+  "pinyin": "chú",
+  "meaning": "kitchen",
+  "example": "厨房很干净。",
+  "example_pinyin": "chú fáng hěn gān jìng.",
+  "explanation": "厨 appears in 厨房 (kitchen)."
+},
+{
+  "char": "渴",
+  "pinyin": "kě",
+  "meaning": "thirsty",
+  "example": "我很渴。",
+  "example_pinyin": "wǒ hěn kě.",
+  "explanation": "Means 'I am thirsty.' 渴 means 'thirsty'."
+},
+{
+  "char": "蕉",
+  "pinyin": "jiāo",
+  "meaning": "banana (plant)",
+  "example": "香蕉很好吃。",
+  "example_pinyin": "xiāng jiāo hěn hǎo chī.",
+  "explanation": "蕉 appears in 香蕉 (banana)."
+},
+{
+  "char": "葡",
+  "pinyin": "pú",
+  "meaning": "grape (part of 葡萄)",
+  "example": "我吃葡萄。",
+  "example_pinyin": "wǒ chī pú táo.",
+  "explanation": "葡 appears in 葡萄 (grape)."
+},
+{
+  "char": "萄",
+  "pinyin": "táo",
+  "meaning": "grape (part of 葡萄)",
+  "example": "我吃葡萄。",
+  "example_pinyin": "wǒ chī pú táo.",
+  "explanation": "萄 appears in 葡萄."
+},
+{
+  "char": "求",
+  "pinyin": "qiú",
+  "meaning": "to ask; seek",
+  "example": "我求帮助。",
+  "example_pinyin": "wǒ qiú bāng zhù.",
+  "explanation": "求 means 'ask/seek'."
+},
+{
+  "char": "害",
+  "pinyin": "hài",
+  "meaning": "harm; hurt",
+  "example": "不要害人。",
+  "example_pinyin": "bú yào hài rén.",
+  "explanation": "害 means 'harm'."
+},
+{
+  "char": "越",
+  "pinyin": "yuè",
+  "meaning": "to exceed; more and more",
+  "example": "越来越好。",
+  "example_pinyin": "yuè lái yuè hǎo.",
+  "explanation": "越 means 'more and more'."
+},
+{
+  "char": "据",
+  "pinyin": "jù",
+  "meaning": "according to",
+  "example": "据他说。",
+  "example_pinyin": "jù tā shuō.",
+  "explanation": "据 means 'according to'."
+},
+{
+  "char": "示",
+  "pinyin": "shì",
+  "meaning": "to show; indicate",
+  "example": "表示感谢。",
+  "example_pinyin": "biǎo shì gǎn xiè.",
+  "explanation": "示 means 'show/indicate'."
+},
+{
+  "char": "阿",
+  "pinyin": "ā",
+  "meaning": "prefix (for names, informal)",
+  "example": "阿明来了。",
+  "example_pinyin": "ā míng lái le.",
+  "explanation": "阿 is used before names."
+},
+{
+  "char": "顾",
+  "pinyin": "gù",
+  "meaning": "to look after; care for",
+  "example": "照顾孩子。",
+  "example_pinyin": "zhào gù hái zi.",
+  "explanation": "顾 appears in 照顾 (to take care of)."
+},
+{
+  "char": "环",
+  "pinyin": "huán",
+  "meaning": "circle; ring",
+  "example": "环境很好。",
+  "example_pinyin": "huán jìng hěn hǎo.",
+  "explanation": "环 appears in 环境 (environment)."
+},
+{
+  "char": "街",
+  "pinyin": "jiē",
+  "meaning": "street",
+  "example": "这条街很长。",
+  "example_pinyin": "zhè tiáo jiē hěn cháng.",
+  "explanation": "街 means 'street'."
+},
+{
+  "char": "久",
+  "pinyin": "jiǔ",
+  "meaning": "long (time)",
+  "example": "我等了很久。",
+  "example_pinyin": "wǒ děng le hěn jiǔ.",
+  "explanation": "Means 'I waited a long time.' 久 means 'long time'."
+},
+{
+  "char": "差",
+  "pinyin": "chà",
+  "meaning": "bad; lacking",
+  "example": "这个很差。",
+  "example_pinyin": "zhè ge hěn chà.",
+  "explanation": "差 means 'bad/lacking'."
+},
+{
+  "char": "李",
+  "pinyin": "lǐ",
+  "meaning": "plum; surname",
+  "example": "我吃李子。",
+  "example_pinyin": "wǒ chī lǐ zi.",
+  "explanation": "李 means 'plum'."
+},
+{
+  "char": "乎",
+  "pinyin": "hū",
+  "meaning": "suffix (classical/soft tone)",
+  "example": "几乎完成。",
+  "example_pinyin": "jī hū wán chéng.",
+  "explanation": "乎 appears in 几乎 (almost)."
+},
+{
+  "char": "聪",
+  "pinyin": "cōng",
+  "meaning": "clever; intelligent",
+  "example": "他很聪明。",
+  "example_pinyin": "tā hěn cōng míng.",
+  "explanation": "聪 appears in 聪明 (smart)."
+}
+  ]
+}
