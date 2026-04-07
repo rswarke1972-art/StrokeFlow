@@ -57,3 +57,7 @@ function nextStroke() {
     current++;
   }
 }
+
+function openStories() {
+  window.location.href = "stories.html";
+}

@@ -1,6 +1,6 @@
 // Get character data
 let charObj = JSON.parse(localStorage.getItem("character"));
-
+let currentChar = charObj.char;
 // Display text info
 document.getElementById("charDisplay").innerText = charObj.char;
 document.getElementById("pinyinDisplay").innerText = charObj.pinyin;
@@ -8,6 +8,7 @@ document.getElementById("meaning").innerText = charObj.meaning;
 document.getElementById("example").innerText = charObj.example;
 document.getElementById("examplePinyin").innerText = charObj.example_pinyin;
 document.getElementById("explanation").innerText = charObj.explanation;
+playSound(charObj.char);
 document.body.addEventListener("click", function (e) {
   if (e.target.id !== "musicBtn") {
     let music = document.getElementById("bgMusic");
@@ -60,4 +61,10 @@ function reset() {
 // 🔙 Back button
 function goBack() {
   window.history.back();
+}
+
+function playSound(char) {
+  let file = encodeURIComponent(char);
+  let audio = new Audio(`audio/${file}.mp3`);
+  audio.play();
 }
